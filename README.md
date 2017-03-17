@@ -41,4 +41,6 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## Y - \#
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 
+---
+
 **List format inspired from [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards).**
