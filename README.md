@@ -4,6 +4,10 @@ List of tech companies (or teams) that are based or working in Nepal.
 ### Contribution
 Please open a PR to be added.
 
+### Duds
+
+If you cannot provide a valid website for your company your PR will not be accepted.
+
 ### Format
 
 ```
