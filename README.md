@@ -35,7 +35,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
-- [Itonics](https://www.itonics.de/) | Hanumansthan, Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management.
+- [Itonics](https://www.itonics.de/) | Hanumansthan, Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
 
 ## J - L
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
