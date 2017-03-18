@@ -66,6 +66,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## P - R
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
+- [Professional Computer System Pvt. Ltd.](http://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
 - [Proshore](http://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 
