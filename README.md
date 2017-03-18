@@ -26,8 +26,8 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fawesome Apps](http://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
-- [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 - [Fusemachines Nepal](http://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
+- [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
