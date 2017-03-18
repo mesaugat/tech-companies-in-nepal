@@ -21,6 +21,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com) | New Baneshwor, Kathmandu | A company solely established for development and deployment of innovative products and services in the field of IT globally
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
+- [big B soft](http://bigbsoft.com) | Nayabazar, Kathmandu | Native - iOS app development
 - [CloudFactory](https://www.cloudfactory.com/) | Bhainsepati, Lalitpur | On-Demand Workforce for Data Work
 
 ## D - F
