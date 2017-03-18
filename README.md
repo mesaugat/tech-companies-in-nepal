@@ -21,12 +21,13 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [big B soft](http://bigbsoft.com) | Nayabazar, Kathmandu | Native - iOS app development agency
+- [Bits Innovation](http://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides service like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web hosting
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [CloudFactory](https://www.cloudfactory.com/) | Bhainsepati, Lalitpur | On-Demand Workforce for Data Work
 
 ## D - F
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
-- [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
+- [ebPearls Pvt. Ltd](http://www.ebpearls.com/) | Kupondole, Lalitpur | EB Pearls plans, designs and manages its client’s digital product in Sydney office while the development and quality controlling is executed in Kathmandu office.
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fawesome Apps](http://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
 - [Fusemachines Nepal](http://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
