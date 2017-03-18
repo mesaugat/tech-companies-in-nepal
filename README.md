@@ -22,6 +22,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## D - F
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
+- [ebPearls Pvt. Ltd](http://www.ebpearls.com/) | Kupondole, Lalitpur | EB Pearls plans, designs and manages its client’s digital product in Sydney office while the development and quality controlling is executed in Kathmandu office.
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fawesome Apps](http://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
 
