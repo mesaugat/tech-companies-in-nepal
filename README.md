@@ -5,11 +5,8 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 ### Contributing
 
 * Please open a PR for companies to be added
-* Use the format below and don't make your company description more than two lines
-
-### Duds
-
-* If you cannot provide a valid website for your company your PR will not be accepted
+* Use the format below
+* Don't make your company description more than two lines
 
 ### Format
 
@@ -17,7 +14,11 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 - [Company](https://my.company) | location | what you do
 ```
 
-###
+### Duds
+
+If you cannot provide a valid website for your company your PR will not be accepted.
+
+---
 
 ## A - C
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
