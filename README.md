@@ -46,6 +46,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 
 ## M - O
+- [Mantra Ideas Pvt. Ltd.](http://mantraideas.com) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
 ## P - R
