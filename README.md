@@ -53,6 +53,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build mobile and web apps
+- [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings 
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 
 ## M - O
