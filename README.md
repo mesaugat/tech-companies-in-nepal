@@ -17,6 +17,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ###
 
 ## A - C
+- [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [CloudFactory](https://www.cloudfactory.com/) | Bhainsepati, Lalitpur | On-Demand Workforce for Data Work
 
@@ -29,6 +30,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
+- [Incessant Rain Animation Studios] | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 
 ## J - L
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
@@ -43,6 +45,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## P - R
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Proshore](http://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
+- [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 
 ## S - U
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
