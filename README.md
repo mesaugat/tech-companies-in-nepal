@@ -1,12 +1,15 @@
 # Tech Companies in Nepal
-List of tech companies (or teams) that are based or working in Nepal.
+
+List of tech companies (or teams) that are based or working in Nepal :nepal:
 
 ### Contributing
-Please open a PR for companies to be added. Use the format below.
+
+* Please open a PR for companies to be added
+* Use the format below and don't make your company description more than two lines
 
 ### Duds
 
-If you cannot provide a valid website for your company your PR will not be accepted.
+* If you cannot provide a valid website for your company your PR will not be accepted
 
 ### Format
 
