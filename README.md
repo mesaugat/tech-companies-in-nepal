@@ -27,6 +27,8 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [big B soft](http://bigbsoft.com/) | Nayabazar, Kathmandu | Native - iOS app development agency
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
+- [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet service provider
+- [Classic Tech](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhainsepati, Lalitpur | On-Demand Workforce for Data Work
 
 ## D - F
@@ -41,6 +43,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
+- [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
 
 ## J - L
@@ -55,6 +58,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## M - O
 - [Manaram Technology](http://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
 - [Mantra Ideas Pvt. Ltd.](http://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
+- [Mercantile Communications Pvt. Ltd.](http://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet such as Internet and Intranet applications development, content designing, development and hosting
 - [Mhuchya Technology](https://mhuchya.com.np) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
@@ -65,11 +69,14 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## S - U
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
+- [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamshikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Three Monks](http://www.threemonk.com/) | Sinamangal, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 
 ## V - X
+- [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
+- [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | To connect everyone, anywhere, all the time
 
 ## Y - \#
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
