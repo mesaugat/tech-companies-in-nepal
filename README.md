@@ -43,7 +43,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
-- [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions.
+- [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
 
@@ -54,7 +54,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build mobile and web apps
-- [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings 
+- [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 
 ## M - O
@@ -81,7 +81,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
 ## Y - \#
-- [Yakamoz Technology](http://www.yakamoztech.com/) | Kamaladi, Kathmandu | We believe in building products that are simple and intuitive 
+- [Yakamoz Technology](http://www.yakamoztech.com/) | Kamaladi, Kathmandu | We believe in building products that are simple and intuitive
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 - [ZurelSoft](http://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](http://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
@@ -92,6 +92,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 - Nepali Companies Hosting Project on GitHub - https://github.com/developers-nepal/companies
 - List of Software and IT Companies in Nepal - http://nistnews.blogspot.com/p/companies.html
+- Twitter List of Software Companies in Nepal - https://twitter.com/studentoncom/lists/software-companies
 - Top 100 IT Companies of Nepal (2012) - http://everestlist.org/top-100-it-companies-nepal-2012
 
 ---
