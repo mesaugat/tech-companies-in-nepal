@@ -56,4 +56,12 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ---
 
+## Additional Resources
+
+- Nepali Companies Hosting Project on GitHub - https://github.com/developers-nepal/companies
+- List of Software and IT Companies in Nepal - http://nistnews.blogspot.com/p/companies.html
+- Top 100 IT Companies of Nepal (2012) - http://everestlist.org/top-100-it-companies-nepal-2012
+
+---
+
 **List format inspired from [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards).**
