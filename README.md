@@ -1,8 +1,8 @@
 # Tech Companies in Nepal
 List of tech companies (or teams) that are based or working in Nepal.
 
-### Contribution
-Please open a PR to be added.
+### Contributing
+Please open a PR for companies to be added. Use the format below.
 
 ### Duds
 
@@ -49,6 +49,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## S - U
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
+- [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 
 ## V - X
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
