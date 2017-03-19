@@ -4,7 +4,7 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 
 ### Contributing
 
-* Please open a PR for companies to be added
+* Please open a [PR](https://guides.github.com/activities/forking/) for companies to be added
 * Use the format below
 * Don't make your company description more than two lines
 
@@ -64,7 +64,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Manaram Technology](http://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
 - [Mantra Ideas Pvt. Ltd.](http://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
 - [Mercantile Communications Pvt. Ltd.](http://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
-- [Mhuchya Technology](https://mhuchya.com.np) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
+- [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
 ## P - R
@@ -74,10 +74,10 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 
 ## S - U
-- [Sastodeal | Be Genuine](https://www.sastodeal.com) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
+- [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamshikhel, Lalitpur | Internet, Network and Television Service Provider
-- [Tech101](https://www.tech101.co.uk) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
+- [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [Three Monks](http://www.threemonk.com/) | Sinamangal, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 
