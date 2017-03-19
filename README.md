@@ -67,7 +67,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## P - R
 - [PageVamp](https://www.pagevamp.com/) | Sanepa, Lalitpur | Create and Update Website from Facebook Page
-- [PeaceNepal.com](http://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
+- [Peace Nepal DOT Com P. Ltd.](http://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Professional Computer System Pvt. Ltd.](http://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
 - [Proshore](http://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
