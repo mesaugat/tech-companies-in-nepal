@@ -85,6 +85,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## Y - \#
 - [Yakamoz Technology](http://www.yakamoztech.com/) | Kamaladi, Kathmandu | We believe in building products that are simple and intuitive
+- [Yomari Information Services Incorporated](http://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 - [ZurelSoft](http://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](http://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
