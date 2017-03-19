@@ -73,6 +73,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 
 ## S - U
+- [Sastodeal | Be Genuine](https://www.sastodeal.com) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamshikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Tech101](https://www.tech101.co.uk) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
