@@ -37,7 +37,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
-- [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company based out of downtown Miami, FL
+- [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company.
 - [ESignature Pvt. Ltd.](http://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fawesome Apps](http://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
