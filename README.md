@@ -2,11 +2,16 @@
 
 List of tech companies (or teams) that are based or working in Nepal :nepal:
 
+|     |     |     |     |     |     |     |     |     |
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
+
 ### Contributing
 
 * Please open a [PR](https://guides.github.com/activities/forking/) for companies to be added
 * Use the format below
-* Don't make your company description more than two lines
+* Don't make your company description long
+* Don't end the description with a full stop
 
 ### Format
 
@@ -22,7 +27,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr) as of [Mar 22, 2017](https://github.com/mesaugat/tech-companies-in-nepal/blob/cd1cdeceac28da35f0dea0d649948cc8d5460941/README.md). Additions to this document however is not automatically pushed to Airtable (WIP).
 
-Intial data was fed to Airtable using this [script here](https://gist.github.com/mesaugat/7b9b769bef27039e0c8df063789ea125).
+Initial data was fed to Airtable using this [script here](https://gist.github.com/mesaugat/7b9b769bef27039e0c8df063789ea125).
 
 ---
 
