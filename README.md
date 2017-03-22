@@ -18,6 +18,12 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 
 If you cannot provide a valid website for your company your PR will not be accepted.
 
+### Download
+
+You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr) as of [Mar 22, 2017](https://github.com/mesaugat/tech-companies-in-nepal/blob/cd1cdeceac28da35f0dea0d649948cc8d5460941/README.md). Additions to this document however is not automatically pushed to Airtable (WIP).
+
+Intial data was fed to Airtable using this [script here](https://gist.github.com/mesaugat/7b9b769bef27039e0c8df063789ea125).
+
 ---
 
 ## A - C
