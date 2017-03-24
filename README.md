@@ -5,7 +5,6 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 
-
 ### Contributing
 
 * Please open a [PR](https://guides.github.com/activities/forking/) for companies to be added
