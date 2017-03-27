@@ -5,12 +5,13 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 
-### Contributing
+### Don't See Your Company on the List?
 
-* Please open a [PR](https://guides.github.com/activities/forking/) for companies to be added
+* Please open a [PR](https://guides.github.com/activities/forking/)
 * Use the format below
 * Don't make your company description long
 * Don't end the description with a full stop
+* Here's a good [example](https://github.com/mesaugat/tech-companies-in-nepal/pull/7/files)
 
 ### Format
 
@@ -24,9 +25,9 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ### Download
 
-You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr) as of [Mar 22, 2017](https://github.com/mesaugat/tech-companies-in-nepal/blob/cd1cdeceac28da35f0dea0d649948cc8d5460941/README.md). Additions to this document however is not automatically pushed to Airtable (WIP).
+You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr). Additions to this document are automatically pushed to Airtable. You can contribute to the API [here](https://github.com/mesaugat/tech-companies-in-nepal-api).
 
-Initial data was fed to Airtable using this [script here](https://gist.github.com/mesaugat/7b9b769bef27039e0c8df063789ea125).
+**Bonus:** Here's an [API](https://tech-companies-in-nepal.herokuapp.com/api/companies) to get all companies in JSON format.
 
 ---
 
@@ -91,10 +92,10 @@ Initial data was fed to Airtable using this [script here](https://gist.github.co
 ## S - U
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
-- [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamshikhel, Lalitpur | Internet, Network and Television Service Provider
+- [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
-- [TECHRISE](http://www.techrise.me/) | Jhamshikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
+- [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
 - [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | Sinamangal, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
