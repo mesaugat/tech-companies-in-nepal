@@ -5,7 +5,7 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 
-### Don't See Your Company on the List?
+### Don't See your Company on the List?
 
 * Please open a [PR](https://guides.github.com/activities/forking/)
 * Use the format below
@@ -21,11 +21,11 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 
 ### Duds
 
-If you cannot provide a valid website for your company your PR will not be accepted.
+If you cannot provide a valid website for your company, your PR will not be accepted.
 
 ### Download
 
-You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr). Additions to this document are automatically pushed to Airtable. You can contribute to the API [here](https://github.com/mesaugat/tech-companies-in-nepal-api).
+You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr). Additions to this document are automatically pushed to Airtable using the API [here](https://github.com/mesaugat/tech-companies-in-nepal-api).
 
 **Bonus:** Here's an [API](https://tech-companies-in-nepal.herokuapp.com/api/companies) to get all companies in JSON format.
 
