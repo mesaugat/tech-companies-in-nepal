@@ -124,4 +124,10 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ---
 
+## License
+
+[MIT](LICENSE.md)
+
+---
+
 **List format inspired from [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards).**
