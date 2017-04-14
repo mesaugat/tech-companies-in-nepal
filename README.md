@@ -122,8 +122,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Twitter List of Software Companies in Nepal](https://twitter.com/studentoncom/lists/software-companies)
 - [Top 100 IT Companies of Nepal (2012)](http://everestlist.org/top-100-it-companies-nepal-2012)
 
----
-
 ## License
 
 [MIT](LICENSE.md)
