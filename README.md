@@ -119,7 +119,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 - [Nepali Companies Hosting Project on GitHub](https://github.com/developers-nepal/companies)
 - [List of Software and IT Companies in Nepal](http://nistnews.blogspot.com/p/companies.html)
-- [Twitter List of Software Companies in Nepal](https://twitter.com/amitness/lists/software-companies)
 - [Top 100 IT Companies of Nepal (2012)](http://everestlist.org/top-100-it-companies-nepal-2012)
 
 ## License
