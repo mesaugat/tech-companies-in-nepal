@@ -91,6 +91,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## S - U
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
+- [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of the modern technology
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
@@ -104,6 +105,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## V - X
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
+- [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
