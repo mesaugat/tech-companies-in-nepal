@@ -91,7 +91,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## S - U
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
-- [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of the modern technology
+- [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
@@ -120,7 +120,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## Additional Resources
 
-- [Nepali Companies Hosting Project on GitHub](https://github.com/developers-nepal/companies)
+- [Nepali Companies on GitHub](https://github.com/developers-nepal/companies)
 - [List of Software and IT Companies in Nepal](http://nistnews.blogspot.com/p/companies.html)
 - [Top 100 IT Companies of Nepal (2012)](http://everestlist.org/top-100-it-companies-nepal-2012)
 
