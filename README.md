@@ -77,8 +77,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 
 ## M - O
-- [Makura Creations](http://makuracreations.com) | Pulchowk Rd, Patan | Web design/development, Software development,
-Mobile app development, Social media marketing and SEO
+- [Makura Creations](http://makuracreations.com) | Pulchowk Rd, Patan | Web design/development, Software development, Mobile app development, Social media marketing and SEO
 - [Manaram Technology](http://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
 - [Mantra Ideas Pvt. Ltd.](http://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
 - [Mercantile Communications Pvt. Ltd.](http://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
