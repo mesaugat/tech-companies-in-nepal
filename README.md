@@ -62,6 +62,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
+- [Goreto Software](http://goretosoftware.com/) | Mandala Complex, Pokhara | Goreto Software is the one stop solution for all your Software Development, Graphics Designing and Web Development problems
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
@@ -119,6 +120,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
+- [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
 ## Y - \#
