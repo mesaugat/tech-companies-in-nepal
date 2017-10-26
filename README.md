@@ -112,7 +112,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
 - [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
-- [Three Monks](http://www.threemonk.com/) | Sinamangal, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
+- [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Unelma Platforms is a provider of software development services for higher-education, healthcare and business markets
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 
