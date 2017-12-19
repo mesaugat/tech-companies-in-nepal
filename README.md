@@ -94,6 +94,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## S - U
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
+- [Segonatech](https://segonatech.com/) | Battishputali, Kathmandu | A refined and enthusiastic social affair of organizers, fashioners, wander chiefs, researchers and experts. Every client we work with transforms into a bit of the gathering. Together we stand up to the challenges and laud the triumphs.
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
