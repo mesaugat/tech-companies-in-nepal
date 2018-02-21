@@ -103,6 +103,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## S - U
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
+- [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions. 
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products 
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
