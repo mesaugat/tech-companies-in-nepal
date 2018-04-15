@@ -10,7 +10,7 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 
 * Please open a [PR](https://guides.github.com/activities/forking)
 * Add your company in alphabetical order using the format below
-* Company description should be short and should not end with a fullstop
+* Company description should be short and should not end with a period
 * Here's a good [example](https://github.com/mesaugat/tech-companies-in-nepal/pull/7/files)
 
 ### Format
