@@ -1,4 +1,4 @@
-﻿# Tech Companies in Nepal
+# Tech Companies in Nepal
 
 List of tech companies (or teams) that are based or working in Nepal :nepal:
 
