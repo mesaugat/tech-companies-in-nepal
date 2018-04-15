@@ -6,18 +6,17 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 
-### Don't See your Company on the List?
+### Add your Company to the List
 
-* Please open a [PR](https://guides.github.com/activities/forking/)
-* Use the format below
-* Don't make your company description long
-* Don't end the description with a full stop
+* Please open a [PR](https://guides.github.com/activities/forking)
+* Add your company in alphabetical order using the format below
+* Company description should be short and should not end with a fullstop
 * Here's a good [example](https://github.com/mesaugat/tech-companies-in-nepal/pull/7/files)
 
 ### Format
 
 ```
-- [Company](https://my.company) | location, city | what you do
+- [Company Name](https://my.company) | location, city | what your company does
 ```
 
 ### Duds
