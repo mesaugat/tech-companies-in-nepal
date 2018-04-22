@@ -70,6 +70,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
 - [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
+- [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
 
@@ -98,6 +99,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Professional Computer System Pvt. Ltd.](http://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
 - [Proshore](http://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
+- [QPay](http://www.qpay.com.np/) | Baluwatar, Kathmandu | QPay Pvt. Ltd. Incorporated and registered in Nepal has brought forward mobile based payment solution
 - [Ribera Solutions](http://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 
