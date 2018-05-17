@@ -77,7 +77,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## J - L
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
 - [Javra](http://javra.com/) | Kumaripati, Lalitpur | IT solutions that boost productivity in business
-- [Jyaasa](http://jyaasa.com/) | Imadol, Lalitpur | At Jyaasa we transform ideas into world class digital products. 
+- [Jyaasa](http://jyaasa.com/) | Imadol, Lalitpur | At Jyaasa we transform ideas into world class digital products 
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build mobile and web apps
