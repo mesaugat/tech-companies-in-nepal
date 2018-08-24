@@ -80,6 +80,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Javra](http://javra.com/) | Kumaripati, Lalitpur | IT solutions that boost productivity in business
 - [Jyaasa](http://jyaasa.com/) | Imadol, Lalitpur | At Jyaasa we transform ideas into world class digital products 
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
+- [Kathmandu Living Labs](http://www.kathmandulivinglabs.org/) | Chundevi, Maharajgunj, Kathmandu | Non Profit civic tech company
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build world-class software for you
 - [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings
