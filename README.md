@@ -32,6 +32,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ---
 
 ## A - C
+
 - [Allied Netlink Technology Pvt. Ltd.](http://ant.com.np/) | Putalisadak, Kathmandu | Internet Service Provider (ISP)
 - [Ambarkaar Software Pvt. Ltd.](http://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce   
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
@@ -48,6 +49,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
 
 ## D - F
+
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Danphe Infotech Pvt. Ltd.](http://www.danpheinfotech.com/) | Kupondole, Lalitpur | We specialize in Software and Web Development
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
@@ -63,8 +65,10 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
+
 - [Goreto Software](http://goretosoftware.com/) | Mandala Complex, Pokhara | Goreto Software is the one stop solution for all your Software Development, Graphics Designing and Web Development problems
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
+- [GrowByData](http://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
@@ -75,16 +79,19 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
 
 ## J - L
+
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
 - [Javra](http://javra.com/) | Kumaripati, Lalitpur | IT solutions that boost productivity in business
 - [Jyaasa](http://jyaasa.com/) | Imadol, Lalitpur | At Jyaasa we transform ideas into world class digital products 
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
+- [Kathmandu Living Labs](http://www.kathmandulivinglabs.org/) | Maharajgunj, Kathmandu | Non Profit civic tech company
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build world-class software for you
 - [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 
 ## M - O
+
 - [Mahuri Ventures](http://mahuriventures.com) | Bharatpur, Chitwan | Smart Solution for Smart Business
 - [Makura Creations](http://makuracreations.com) | Pulchowk Rd, Patan | Web design/development, Software development, Mobile app development, Social media marketing and SEO
 - [Manaram Technology](http://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
@@ -95,6 +102,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
 ## P - R
+
 - [PageVamp](https://www.pagevamp.com/) | Sanepa, Lalitpur | Create and Update Website from Facebook Page
 - [Peace Nepal DOT Com P. Ltd.](http://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
@@ -105,6 +113,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 
 ## S - U
+
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
@@ -123,6 +132,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Unifun](https://unifun.com/) | Nagpokhari, Kathmandu | Unifun is a provider of high-class IT products for Mobile Operators
 
 ## V - X
+
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
@@ -131,6 +141,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
 ## Y - \#
+
 - [Yakamoz Technology](http://www.yakamoztech.com/) | Kamaladi, Kathmandu | We believe in building products that are simple and intuitive
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yomari Information Services Incorporated](http://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
