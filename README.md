@@ -73,7 +73,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [GrowByData](http://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
-- [Heartsun Technology](http://heartsunntsoft.com/) |  Bharatpur, Chitwan|Software Company with .Net platform
+- [Heartsun Technology](http://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
