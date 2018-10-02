@@ -118,6 +118,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [QPay](http://www.qpay.com.np/) | Baluwatar, Kathmandu | QPay Pvt. Ltd. Incorporated and registered in Nepal has brought forward mobile based payment solution
 - [Ribera Solutions](http://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
+- [Rooster Logic Pvt. Ltd.](http://roosterlogic.com/) | Gairidhara, Kathmandu | Data solutions, Web and mobile app development
 
 ## S - U
 
@@ -146,6 +147,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
+- [Viveka Health](http://www.vivekahealth.com/) | Lalitpur | Outsourcing company
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
