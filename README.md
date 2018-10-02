@@ -53,8 +53,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## D - F
 
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
-- [Danphe Infotech Pvt. Ltd.](http://www.danpheinfotech.com/) | Kupondole, Lalitpur | We specialize in Software and Web Development
 - [Danfe Solution Pvt. Ltd.](http://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
+- [Danphe Infotech Pvt. Ltd.](http://www.danpheinfotech.com/) | Kupondole, Lalitpur | We specialize in Software and Web Development
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
