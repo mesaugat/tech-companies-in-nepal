@@ -50,6 +50,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhainsepati, Lalitpur | On-Demand Workforce for Data Work
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
+- [Curves n' Colors](http://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
 
 ## D - F
 
