@@ -54,11 +54,11 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Danphe Infotech Pvt. Ltd.](http://www.danpheinfotech.com/) | Kupondole, Lalitpur | We specialize in Software and Web Development
-- [Danfe Solutions](http://danfesolution.com/) | Gyaneshwor, Kathmandu | An IT Company providing web, mobile and desktop applications
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
 - [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
+- [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & IOS Application development
 - [Enliv Information Technologies](http://enlivit.com/) | Chakupat, Lalitpur | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
 - [ESignature Pvt. Ltd.](http://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
 - [Exotrac](http://exotrac.com/) | Old Baneshwor, Kathmandu | Leading provider of real time logistics management software for automotive, manufacturing, retail, and supply chain logistics industries
