@@ -54,6 +54,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Danphe Infotech Pvt. Ltd.](http://www.danpheinfotech.com/) | Kupondole, Lalitpur | We specialize in Software and Web Development
+- [Danfe Solution Pvt. Ltd](http://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
@@ -131,6 +132,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [SUBISU CABLENET (P.) LTD.](http://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
+- [Teck Kunja Pvt. Ltd.](techkunja.com.np/) | Patan, Lalitpur | Web design, web development, AI, graphics design and Consulting services
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
 - [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
