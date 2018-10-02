@@ -145,7 +145,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
-- [Viveka Health](http://www.vivekahealth.com/) | Sanepa, Lalitpur | Outsourcing company
+- [Viveka Health](http://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on US health data projects
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
