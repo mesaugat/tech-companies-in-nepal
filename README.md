@@ -118,6 +118,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [QPay](http://www.qpay.com.np/) | Baluwatar, Kathmandu | QPay Pvt. Ltd. Incorporated and registered in Nepal has brought forward mobile based payment solution
 - [Ribera Solutions](http://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
+- [Rooster Logic Pvt. Ltd.](http://roosterlogic.com/) | Gairidhara, Kathmandu | Data solutions, Web and mobile app development
 
 ## S - U
 
