@@ -35,6 +35,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## A - C
 
+- [Aayulogic Pvt. Ltd.](https://aayulogic.com/) | Min Bhawan, Kathmandu | Software solutions including, but not limited to, web development, web desigining, web/domain hosting and CMS
 - [Allied Netlink Technology Pvt. Ltd.](http://ant.com.np/) | Putalisadak, Kathmandu | Internet Service Provider (ISP)
 - [Ambarkaar Software Pvt. Ltd.](http://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce   
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
@@ -49,6 +50,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhainsepati, Lalitpur | On-Demand Workforce for Data Work
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
+- [Curves n' Colors](http://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
 
 ## D - F
 
