@@ -154,7 +154,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
-- [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandhu | Web and Logo design, Web hosting, Domain Registration
+- [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
 - [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
 - [Viveka Health](http://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
