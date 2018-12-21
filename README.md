@@ -82,6 +82,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
+- [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
 - [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
