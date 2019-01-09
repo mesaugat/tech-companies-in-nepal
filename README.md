@@ -25,7 +25,7 @@ List of tech companies (or teams) that are based or working in Nepal :nepal:
 
 If you cannot provide a valid website for your company, your PR will not be accepted.
 
-### Download
+### Downloadx
 
 You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv3YvlfxLnHJfr). Additions to this document are automatically pushed to Airtable using the API [here](https://github.com/mesaugat/tech-companies-in-nepal-api).
 
@@ -81,7 +81,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Heartsun Technology](http://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
-- [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative content creation
+- [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
