@@ -50,6 +50,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Centerpoint Networks Pvt. Ltd.](http://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
+- [Cotiviti Nepal](http://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
 - [Curves n' Colors](http://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
 
@@ -161,7 +162,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## V - X
 
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
-- [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
 - [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
