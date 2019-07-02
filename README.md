@@ -64,7 +64,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
 - [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
 - [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & iOS Application Development
-- [Enliv Information Technologies](http://enlivit.com/) | Chakupat, Lalitpur | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
+- [Enliv Technology](http://enlivit.com/) | Chakupat, Lalitpur | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
 - [ESignature Pvt. Ltd.](http://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
 - [Exotrac](http://exotrac.com/) | Old Baneshwor, Kathmandu | Leading provider of real time logistics management software for automotive, manufacturing, retail, and supply chain logistics industries
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
