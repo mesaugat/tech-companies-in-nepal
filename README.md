@@ -84,6 +84,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Heartsun Technology](http://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
+- [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
@@ -93,7 +94,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
-- [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 
 ## J - L
 
