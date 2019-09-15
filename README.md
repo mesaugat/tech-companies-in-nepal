@@ -165,7 +165,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Unlimited Technology Pvt. Ltd.](http://unlimit.com) | Khichapokhari, Kathmandu | Expertise in business software, custom software, business intelligence, document management/collaboration, mobile and infrastructure solutions
 
 ## V - X
-
+epal
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
@@ -173,6 +173,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Viveka Health](http://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebRobo](https://www.web-robo.com/) | Setopul, Kathmandu | Creative website development and digital marketing
+- [WebRoot Nepal](https://www.webrootnepal.com)| Tinkune, Butwal |  Website development, designing, hosting   
 - [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
