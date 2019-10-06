@@ -151,11 +151,12 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
-- [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Tech Kunja Pvt. Ltd.](http://techkunja.com.np/) | Patan, Lalitpur | Web design, web development, AI, graphics design and consulting services
+- [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
+- [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
+- [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
-- [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [Tekkon Technologies](https://tekkon.io/) | Anamnagar, Kathmandu | App Development, AWS Consulting, DevOps, CI/CD Implementation, Staff Augmentation
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
