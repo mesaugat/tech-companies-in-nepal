@@ -99,6 +99,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## J - L
 
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
+- [JankariTech](https://www.jankaritech.com/) | Nayagaun, Pokhara | We specialize in helping customers set up test automation
 - [Javra](http://javra.com/) | Kumaripati, Lalitpur | IT solutions that boost productivity in business
 - [Jyaasa](http://jyaasa.com/) | Imadol, Lalitpur | At Jyaasa we transform ideas into world class digital products
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
