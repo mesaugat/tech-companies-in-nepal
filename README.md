@@ -129,6 +129,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
 - [NITV Streamz Pvt. Ltd.](http://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
+- [Outsource Array](https://outsourcearray.com/) | Thamel, Kathmandu | Design, Development, Maintenance and Support all in one place. Here at Outsource Array, we offer tech solutions that engage your customers and deliver outstanding results. Couple that with exceptional manual tech support and you will get a first class IT Services in all fronts
 
 ## P - R
 
