@@ -171,7 +171,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Truemark](https://www.truemark.com.np/) | Bagbazaar, Kathmandu | Software Development Company
 - [UBA Solutions](http://www.uba-solutions.com/) | Thadodhunga, Lalitpur | Software Research and Development
-- [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu |We innovate/create/implement brands to realise their true potential
+- [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu |  A Company that innovate/create/implement brands to realise their true potential
 - [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Unelma Platforms is a provider of software development services for higher-education, healthcare and business markets
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 - [Unifun](https://unifun.com/) | Nagpokhari, Kathmandu | Unifun is a provider of high-class IT products for Mobile Operators
