@@ -147,7 +147,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Rosebay Consulting Pvt. Ltd.](https://rosebayconsult.com/) | Baluwatar, Kathmandu | Blockchain, Product Development, Data Solutions
 
 ## S - U
-
+- [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
