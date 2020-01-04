@@ -65,6 +65,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Danfe Solution Pvt. Ltd.](http://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
 - [Danphe Software Labs Pvt. Ltd.](http://www.danpheit.com/) | Anamnagar, Kathmandu  | We specialize in Software and Web Development
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
+- [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
 - [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
@@ -88,6 +89,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
+- [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
@@ -128,6 +130,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
 - [NITV Streamz Pvt. Ltd.](http://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
+- [Okhati Solutions](http://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
+- [Outsource Array](https://outsourcearray.com/) | Thamel, Kathmandu | Design, Development, Maintenance and Support all in one place
 
 ## P - R
 
@@ -144,8 +148,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Rosebay Consulting Pvt. Ltd.](https://rosebayconsult.com/) | Baluwatar, Kathmandu | Blockchain, Product Development, Data Solutions
 
 ## S - U
-
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
+- [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
 - [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Smartmobe Solutions](https://smartmobe.com/) | Tripureshwor, Kathmandu | Mobile Apps, Graphic Design, and Web Development Services
@@ -153,6 +157,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
+- [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology 
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
@@ -171,7 +176,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 - [Unifun](https://unifun.com/) | Nagpokhari, Kathmandu | Unifun is a provider of high-class IT products for Mobile Operators
 - [Unlimited Technology Pvt. Ltd.](http://unlimit.com) | Khichapokhari, Kathmandu | Expertise in business software, custom software, business intelligence, document management/collaboration, mobile and infrastructure solutions
-- [UXCam](https://uxcam.com/) | Bhanimandal, Lalitpur | UXCam captures every micro interaction on your app, allowing you to replay, analyze and optimize the User Experience.
+- [UXCam](https://uxcam.com/) | Bhanimandal, Lalitpur | UXCam captures every micro interaction on your app, allowing you to replay, analyze and optimize user experience
 
 ## V - X
 
