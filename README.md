@@ -138,6 +138,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## P - R
 
 - [PageVamp](https://www.pagevamp.com/) | Sanepa, Lalitpur | Create and Update Website from Facebook Page
+- [Parewa Labs Pvt. Ltd.](https://parewalabs.com/) | Lazimpat, Kathmandu | Make products for
+Programming Enthusiasts
 - [Peace Nepal DOT Com P. Ltd.](http://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Perfect Active Solutions Pvt. Ltd.](http://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
