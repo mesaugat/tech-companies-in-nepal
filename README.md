@@ -36,6 +36,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## A - C
 
 - [Aayulogic Pvt. Ltd.](https://aayulogic.com/) | Min Bhawan, Kathmandu | Software solutions including, but not limited to, web development, web desigining, web/domain hosting and CMS
+- [Admana Technology Pvt. Ltd.] (https://admana.net/) | Tripureshwor, Kathmandu | We are a Digital Ad Network Platform through which you can put your ads in 70+ websites of Nepal and pay according to your budget
 - [Allied Netlink Technology Pvt. Ltd.](http://ant.com.np/) | Putalisadak, Kathmandu | Internet Service Provider (ISP)
 - [Ambarkaar Software Pvt. Ltd.](http://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce
 - [Amnil Technologies Pvt. Ltd.](http://amniltech.com/) | Manbhawan, Lalitpur | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application
