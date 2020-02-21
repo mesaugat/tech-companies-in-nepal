@@ -129,8 +129,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [Microsoft Innovation Center Nepal](http://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
-- [Nagarjun Software Technosys Pvt Ltd.](http://nagarjunsoftech.com/) | Nagarjun, Kathmandu | Nagarjun Software Technosys is one of the reliable & cost effective Website, Online Marketing and Mobile Apps software development company located in Nagarjun-6, Kathmandu, Nepal
-- [Nepasoft Solutions LLC](http://nepasoft.com/) | Ghairidhara, Kathmandu | NEPASOFT Solution is a team of experienced professionals with passion for delivering high quality software solutions, products and services
+- [Nagarjun Software Technosys Pvt Ltd.](http://nagarjunsoftech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
+- [Nepasoft Solutions LLC](http://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
 - [NITV Streamz Pvt. Ltd.](http://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
