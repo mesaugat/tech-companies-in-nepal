@@ -96,6 +96,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
+- [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
 - [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
