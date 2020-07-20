@@ -6,14 +6,14 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 
-### Website: https://airtable.com/shrXv3YvlfxLnHJfr
+**Website:** https://airtable.com/shrXv3YvlfxLnHJfr
 
-### Adding a new Company to the List
+## Add a new Company to the List
 
-* [Fork](https://guides.github.com/activities/forking) the repository
-* Add your company in alphabetical order using the mentioned format below
-* Company description should be short and should not end with a period
-* Here's a good [example](https://github.com/mesaugat/tech-companies-in-nepal/pull/7/files)
+- [Fork](https://guides.github.com/activities/forking) the repository
+- Add your company in alphabetical order using the mentioned format below
+- Company description should be short and should not end with a period
+- Here's a good [example](https://github.com/mesaugat/tech-companies-in-nepal/pull/7/files)
 
 ### Format
 
@@ -66,7 +66,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Danfe Solution Pvt. Ltd.](http://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
-- [Danphe Software Labs Pvt. Ltd.](http://www.danpheit.com/) | Anamnagar, Kathmandu  | We specialize in Software and Web Development
+- [Danphe Software Labs Pvt. Ltd.](http://www.danpheit.com/) | Anamnagar, Kathmandu | We specialize in Software and Web Development
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
@@ -80,7 +80,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fawesome Apps](http://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
 - [Fusemachines Nepal](http://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
-- [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
+- [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu | FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
 
@@ -144,8 +144,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## P - R
 
 - [PageVamp](https://www.pagevamp.com/) | Sanepa, Lalitpur | Create and Update Website from Facebook Page
-- [Parewa Labs Pvt. Ltd.](https://parewalabs.com/) | Lazimpat, Kathmandu | Make products for
-Programming Enthusiasts
+- [Parewa Labs Pvt. Ltd.](https://parewalabs.com/) | Lazimpat, Kathmandu | Make products for Programming Enthusiasts
 - [Peace Nepal DOT Com P. Ltd.](http://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Perfect Active Solutions Pvt. Ltd.](http://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
@@ -158,6 +157,7 @@ Programming Enthusiasts
 - [Rosebay Consulting Pvt. Ltd.](https://rosebayconsult.com/) | Baluwatar, Kathmandu | Blockchain, Product Development, Data Solutions
 
 ## S - U
+
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
 - [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions
@@ -171,7 +171,7 @@ Programming Enthusiasts
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET (P.) LTD.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
-- [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology 
+- [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
@@ -197,7 +197,7 @@ Programming Enthusiasts
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
-- [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur |  Help business benefit from mixed reality technologies
+- [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur | Help business benefit from mixed reality technologies
 - [Viveka Health](http://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital Marketing, Optimized Website, Management System, Mobile Applications, Software Integration, Advanced Level Programming Course, IT Consultation
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
