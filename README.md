@@ -101,6 +101,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
 - [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
+- [Ishani Technology Pvt. Ltd.](http://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
@@ -180,7 +181,7 @@ Programming Enthusiasts
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
-- [Tekkon Technologies](https://tekkon.io/) | Anamnagar, Kathmandu | App Development, AWS Consulting, DevOps, CI/CD Implementation, Staff Augmentation
+- [Tekkon Technologies](https://tekkon.com.np/) | Baluwatar, Kathmandu | App Development, AWS Consulting, DevOps, CI/CD Implementation, Staff Augmentation
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Truemark](https://www.truemark.com.np/) | Bagbazaar, Kathmandu | Software Development Company
