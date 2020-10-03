@@ -178,6 +178,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Tech Kunja Pvt. Ltd.](http://techkunja.com.np/) | Patan, Lalitpur | Web design, web development, AI, graphics design and consulting services
 - [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
 - [Tech101](https://www.tech101.com.np/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
+- [Techybug](https://www.techybug.com/) | Bharatpur, Chitwan | WWeb Designing, Graphics Designing, Application Development, Hosting and Domain Service and many more
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
