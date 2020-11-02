@@ -205,6 +205,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital Marketing, Optimized Website, Management System, Mobile Applications, Software Integration, Advanced Level Programming Course, IT Consultation
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebRobo](https://www.web-robo.com/) | Setopul, Kathmandu | Creative website development and digital marketing
+- [Wiseyak Inc.](https://wiseyak.com) | Bhatbhateni, Kathmandu | We offer unique solutions around clinical decision support across the healthcare industry in a unified platform using Artificial Intelligence and Machine Learning
 - [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
