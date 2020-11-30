@@ -137,7 +137,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
 - [NITV Streamz Pvt. Ltd.](http://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
-- [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 - [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions 
 - [Okhati Solutions](http://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
 - [Outsource Array](https://outsourcearray.com/) | Thamel, Kathmandu | Design, Development, Maintenance and Support all in one place
