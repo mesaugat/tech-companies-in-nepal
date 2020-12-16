@@ -118,6 +118,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build world-class software for you
 - [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings
+- [LIS Nepal](http://www.lisnepal.com.np/) | Manbhawan, Lalitpur | Service centric Information Technology firm with special focus on retail industry. Our expertise lies in Business Intelligence (BI), Data Warehousing, and Data Analytics
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 - [Lunover Digital](https://www.lunover.com/) | Naya Bazar, Kathmandu | Information Technology and Services
 
