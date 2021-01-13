@@ -57,7 +57,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
-- [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development 
+- [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
 - [Cotiviti Nepal](http://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
@@ -138,7 +138,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
 - [NITV Streamz Pvt. Ltd.](http://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
-- [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions 
+- [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions
 - [Okhati Solutions](http://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
 - [Outsource Array](https://outsourcearray.com/) | Thamel, Kathmandu | Design, Development, Maintenance and Support all in one place
 
@@ -210,7 +210,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## Y - \#
 
-- [Yakamoz Technology](http://www.yakamoztech.com/) | Kamaladi, Kathmandu | We believe in building products that are simple and intuitive
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yomari Information Services Incorporated](http://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
