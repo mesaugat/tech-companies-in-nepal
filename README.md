@@ -185,7 +185,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Tekkon Technologies](https://tekkon.com.np/) | Baluwatar, Kathmandu | App Development, AWS Consulting, DevOps, CI/CD Implementation, Staff Augmentation
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
-- [Truemark](https://www.truemark.com.np/) | Bagbazaar, Kathmandu | Software Development Company
+- [Truemark](https://truemark.dev) | Ranibari Chowk, Kathmandu | We are remote first, quality focused outsourcing company
 - [UBA Solutions](http://www.uba-solutions.com/) | Thadodhunga, Lalitpur | Software Research and Development
 - [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu | We innovate/create/implement brands to realise their true potential
 - [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Unelma Platforms is a provider of software development services for higher-education, healthcare and business markets
