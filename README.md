@@ -101,6 +101,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
+- [Impetus Incorporation Pvt. Ltd.](https://impetus.com.np/) | Pulchowk, Lalitpur | Impetus Incorporation is a Kathmandu based IT Offshore Service Provider
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
