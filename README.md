@@ -170,7 +170,6 @@ bestowing excellence and distinction to the Banking and Financial industry
 
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
-- [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions
 - [Seknox Cybersecurity](https://seknox.com) | Jhamsikhel, Lalitpur | We help achieving secure access to internal servers and services using our product TRASA
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
