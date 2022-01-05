@@ -79,6 +79,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
+- [E-Digital Nepal Pvt. Ltd.](https://edigitalnepal.com) | Tinkune, Kathmandu | We work in transforming the education sector of Nepal with the use of information and communication technology
 - [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
 - [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & iOS Application Development
 - [E-Multitech Solution Pvt. Ltd.](https://www.emultitechsolution.com) | Kupondol, Lalitpur | We are a company specialising in auction software, web design, web development, mobile apps, e-commerce, and other services
