@@ -40,6 +40,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Allied Netlink Technology Pvt. Ltd.](http://ant.com.np/) | Putalisadak, Kathmandu | Internet Service Provider (ISP)
 - [Ambarkaar Software Pvt. Ltd.](http://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce
 - [Amnil Technologies Pvt. Ltd.](http://amniltech.com/) | Manbhawan, Lalitpur | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application
+- [Amsoft Technologies](https://amsoft.com.np) | Gwarko, Lalitpur | An IT Consulting and Software Company serving in IT related areas since its incorporation
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
