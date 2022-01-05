@@ -218,6 +218,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yomari Information Services Incorporated](http://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
+- [Young Minds Creation (P) Ltd](https://www.youngminds.com.np/) | Shantinagar, Kathmandu | We are Software Development & Website Design Company in Nepal
 - [ZurelSoft](http://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](http://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
 
