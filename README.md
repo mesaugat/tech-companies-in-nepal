@@ -76,6 +76,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Deerhold](http://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
 - [Docsumo](https://www.docsumo.com/) | Mitrapark, Kathmandu | Intelligent Data Capture and Extraction with OCR and AI
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
+- [D-Tech Office System Pvt. Ltd.](https://d-tech.com.np/) | New Baneshwor, Kathmandu | Software, Web and Corporate Solutions Provider
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
 - [E-Digital Nepal Pvt. Ltd.](https://edigitalnepal.com) | Tinkune, Kathmandu | We work in transforming the education sector of Nepal with the use of information and communication technology
