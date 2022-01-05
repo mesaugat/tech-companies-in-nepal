@@ -49,6 +49,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [big B soft](http://bigbsoft.com/) | Naya Bazar, Kathmandu | Native - iOS app development agency
 - [Bits Innovation](http://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
+- [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [CellApp Innovations](https://cellapp.co/) | Lainchaur, Kathmandu | We develop and deliver Accelerating Technology to Organizations and Businesses
@@ -57,6 +58,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
+- [Clusus Information Solutions Pvt. Ltd.](http://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused
+bestowing excellence and distinction to the Banking and Financial industry
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
@@ -98,6 +101,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
+- [Impetus Incorporation Pvt. Ltd.](https://impetus.com.np/) | Pulchowk, Lalitpur | IT Offshore Service Provider
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
 - [Infinia Hub Pvt. Ltd.](http://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
@@ -166,7 +170,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
-- [Segonatech](https://segonatech.com/) | Battisputali, Kathmandu | Web Development, Mobile Development, Digital Marketing and Branding, ERP Solutions
 - [Seknox Cybersecurity](https://seknox.com) | Jhamsikhel, Lalitpur | We help achieving secure access to internal servers and services using our product TRASA
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
