@@ -43,6 +43,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
+- [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company based in Nepal with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
 - [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Awecode](http://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
 - [Bajra Technologies](http://bajratechnologies.com/) | Dillibazar, Kathmandu | We make your ideas work
