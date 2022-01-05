@@ -109,7 +109,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
-- [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
+- [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | A concept development company with skills and expertise to facilitate complex business solutions
 - [Ishani Technology Pvt. Ltd.](http://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
