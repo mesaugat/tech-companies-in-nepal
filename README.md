@@ -40,20 +40,22 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Allied Netlink Technology Pvt. Ltd.](http://ant.com.np/) | Putalisadak, Kathmandu | Internet Service Provider (ISP)
 - [Ambarkaar Software Pvt. Ltd.](http://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce
 - [Amnil Technologies Pvt. Ltd.](http://amniltech.com/) | Manbhawan, Lalitpur | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application
+- [Amsoft Technologies](https://amsoft.com.np) | Gwarko, Lalitpur | An IT Consulting and Software Company serving in IT related areas since its incorporation
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
+- [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
 - [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Awecode](http://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
 - [Bajra Technologies](http://bajratechnologies.com/) | Dillibazar, Kathmandu | We make your ideas work
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
-- [big B soft](http://bigbsoft.com/) | Naya Bazar, Kathmandu | Native - iOS app development agency
 - [Bits Innovation](http://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
 - [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [CellApp Innovations](https://cellapp.co/) | Lainchaur, Kathmandu | We develop and deliver Accelerating Technology to Organizations and Businesses
 - [Centerpoint Networks Pvt. Ltd.](http://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
+- [Channakya Software Pvt. Ltd.](www.channakyasoft.com) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
 - [Cixware Pvt. Ltd.](https://cixware.io) | New Baneshwor, Kathmandu | Web and Mobile apps development, DevOps, Cloud services integration and automation
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
@@ -77,8 +79,10 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Deerhold](http://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
 - [Docsumo](https://www.docsumo.com/) | Mitrapark, Kathmandu | Intelligent Data Capture and Extraction with OCR and AI
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
+- [D-Tech Office System Pvt. Ltd.](https://d-tech.com.np/) | New Baneshwor, Kathmandu | Software, Web and Corporate Solutions Provider
 - [EagleVision IT](http://eaglevisionit.com) | Manbhawan, Lalitpur | Development agency that operates on WordPress based designs, offering high-end solutions for web and mobile market
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
+- [E-Digital Nepal Pvt. Ltd.](https://edigitalnepal.com) | Tinkune, Kathmandu | We work in transforming the education sector of Nepal with the use of information and communication technology
 - [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
 - [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & iOS Application Development
 - [E-Multitech Solution Pvt. Ltd.](https://www.emultitechsolution.com) | Kupondol, Lalitpur | We are a company specialising in auction software, web design, web development, mobile apps, e-commerce, and other services
@@ -108,10 +112,9 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
-- [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | IntroCept is a concept development company with skills and expertise to facilitate complex business solutions
+- [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | A concept development company with skills and expertise to facilitate complex business solutions
 - [Ishani Technology Pvt. Ltd.](http://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
-- [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
 
 ## J - L
@@ -160,7 +163,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Professional Computer System Pvt. Ltd.](http://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
 - [Proshore](http://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
-- [QPay](http://www.qpay.com.np/) | Baluwatar, Kathmandu | QPay Pvt. Ltd. Incorporated and registered in Nepal has brought forward mobile based payment solution
+- [QPay](http://www.qpay.com.np/) | Baluwatar, Kathmandu | Mobile based payment solution
 - [Ribera Solutions](http://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 - [Rooster Logic Pvt. Ltd.](http://roosterlogic.com/) | Gairidhara, Kathmandu | Data solutions, Web and mobile app development
@@ -179,7 +182,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Source Code Pvt. Ltd.](www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
-- [SUBISU CABLENET (P.) LTD.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
+- [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
@@ -189,14 +192,12 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Tech101](https://www.tech101.com.np/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
-- [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
-- [Tekkon Technologies](https://tekkon.com.np/) | Baluwatar, Kathmandu | App Development, AWS Consulting, DevOps, CI/CD Implementation, Staff Augmentation
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Truemark](https://truemark.dev) | Ranibari Chowk, Kathmandu | We are remote first, quality focused outsourcing company
 - [UBA Solutions](http://www.uba-solutions.com/) | Thadodhunga, Lalitpur | Software Research and Development
 - [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu | We innovate/create/implement brands to realise their true potential
-- [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Unelma Platforms is a provider of software development services for higher-education, healthcare and business markets
+- [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Provider of software development services for higher-education, healthcare and business markets
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 - [Unifun](https://unifun.com/) | Nagpokhari, Kathmandu | Unifun is a provider of high-class IT products for Mobile Operators
 - [Unlimited Technology Pvt. Ltd.](http://unlimit.com) | Khichapokhari, Kathmandu | Expertise in business software, custom software, business intelligence, document management/collaboration, mobile and infrastructure solutions
@@ -204,7 +205,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 
 ## V - X
 
-- [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
+- [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Software development and information technology (IT) service support center for Verisk Analytics
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
 - [Visualise VR](http://visualisevr.com/) | Pulchowk, Lalitpur | Help business benefit from mixed reality technologies
@@ -221,6 +222,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yomari Information Services Incorporated](http://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
 - [YoungInnovations](http://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
+- [Young Minds Creation Pvt. Ltd.](https://www.youngminds.com.np/) | Shantinagar, Kathmandu | We are Software Development & Website Design Company
 - [ZurelSoft](http://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](http://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
 
