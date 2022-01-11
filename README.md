@@ -45,7 +45,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
 - [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
-- [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Awecode](http://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
 - [Bajra Technologies](http://bajratechnologies.com/) | Dillibazar, Kathmandu | We make your ideas work
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
@@ -55,7 +54,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [CellApp Innovations](https://cellapp.co/) | Lainchaur, Kathmandu | We develop and deliver Accelerating Technology to Organizations and Businesses
 - [Centerpoint Networks Pvt. Ltd.](http://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
-- [Channakya Software Pvt. Ltd.](www.channakyasoft.com) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
+- [Channakya Software Pvt. Ltd.](https://www.channakyasoft.com/) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
+- [Chhito Connect Pvt. Ltd.](https://www.chhitoconnect.com/) | Anamnagar, Kathmandu | Digital Banking Products
 - [Cixware Pvt. Ltd.](https://cixware.io) | New Baneshwor, Kathmandu | Web and Mobile apps development, DevOps, Cloud services integration and automation
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
