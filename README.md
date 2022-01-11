@@ -54,7 +54,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [CellApp Innovations](https://cellapp.co/) | Lainchaur, Kathmandu | We develop and deliver Accelerating Technology to Organizations and Businesses
 - [Centerpoint Networks Pvt. Ltd.](http://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
-- [Channakya Software Pvt. Ltd.](www.channakyasoft.com) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
+- [Channakya Software Pvt. Ltd.](https://www.channakyasoft.com/) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
 - [Chhito Connect Pvt. Ltd.](https://www.chhitoconnect.com/) | Anamnagar, Kathmandu | Digital Banking Products
 - [Cixware Pvt. Ltd.](https://cixware.io) | New Baneshwor, Kathmandu | Web and Mobile apps development, DevOps, Cloud services integration and automation
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
