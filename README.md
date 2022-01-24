@@ -186,7 +186,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](http://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
-- [Swift Technology](https://www.swifttech.com.np/) | PaniPokhari, Kathmandu | Swift Technology Pvt. Ltd is a leading Fin-Tech company established in 2007, expertise in digital financial services, Mobile Banking, Internet Banking, Remittance System, Mobile wallet and customized software development with implementation
+- [Swift Technology](https://www.swifttech.com.np/) | Panipokhari, Kathmandu | Leading FinTech company established in 2007, expertise in digital financial services, Mobile Banking, Internet Banking, Remittance System, Mobile wallet and customized software development
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [Tech Kunja Pvt. Ltd.](http://techkunja.com.np/) | Patan, Lalitpur | Web design, web development, AI, graphics design and consulting services
 - [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
