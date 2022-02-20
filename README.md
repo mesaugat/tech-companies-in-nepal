@@ -76,6 +76,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Danfe Solution Pvt. Ltd.](http://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
 - [Danphe Software Labs Pvt. Ltd.](http://www.danpheit.com/) | Anamnagar, Kathmandu | We specialize in Software and Web Development
+- [Dasmalab](http://www.dasmalab.com/) | Sanepa, Lalitpur | Software, websites and apps development along with data computing and visualization service
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [Deerhold](http://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
 - [Docsumo](https://www.docsumo.com/) | Mitrapark, Kathmandu | Intelligent Data Capture and Extraction with OCR and AI
