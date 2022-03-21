@@ -102,7 +102,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [GrowByData](http://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
-- [Gurzu](https://gurzu.com/) | Lalitpur, Kathmandu | Software Development Company
+- [Gurzu](https://gurzu.com/) | Lalitpur, Kathmandu | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
 - [Heartsun Technology](http://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
