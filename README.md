@@ -119,7 +119,8 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Ishani Technology Pvt. Ltd.](http://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
-
+- [Infinite IT Solutions Nepal](https://infiniteitsolutionsnepal.com/) | Aayal nigam, Biratnagar | Deliver unveiling and demand-satisfying software solutions
+- 
 ## J - L
 
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
