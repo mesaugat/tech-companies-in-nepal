@@ -50,6 +50,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Bajra Technologies](http://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](http://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
+- [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
 - [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
