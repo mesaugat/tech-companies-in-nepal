@@ -58,7 +58,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Centerpoint Networks Pvt. Ltd.](http://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
 - [Channakya Software Pvt. Ltd.](https://www.channakyasoft.com/) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
 - [Chhito Connect Pvt. Ltd.](https://www.chhitoconnect.com/) | Anamnagar, Kathmandu | Digital Banking Products
-- [Chulo Solutions Pvt. Ltd.](https://chulo-solutions.com) | Kumaripati, Lalitpur | Software development company in Nepal having its parent company, Namespace Inc.
+- [Chulo Solutions Pvt. Ltd.](https://chulo-solutions.com) | Kumaripati, Lalitpur | Software development company
 - [Cixware Pvt. Ltd.](https://cixware.io) | New Baneshwor, Kathmandu | Web and Mobile apps development, DevOps, Cloud services integration and automation
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
