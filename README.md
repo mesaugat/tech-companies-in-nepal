@@ -2,8 +2,8 @@
 
 List of tech companies (or teams) that are based or working in Nepal. :nepal:
 
-|     |     |     |     |     |     |     |     |     |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+|                 |                 |                 |                 |                 |                 |                 |                 |                 |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 
 **Website:** https://airtable.com/shrXv3YvlfxLnHJfr
@@ -64,7 +64,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
 - [Clusus Information Solutions Pvt. Ltd.](http://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused
-bestowing excellence and distinction to the Banking and Financial industry
+  bestowing excellence and distinction to the Banking and Financial industry
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
@@ -122,7 +122,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Ishani Technology Pvt. Ltd.](http://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](http://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
- 
+
 ## J - L
 
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
@@ -198,6 +198,7 @@ bestowing excellence and distinction to the Banking and Financial industry
 - [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
 - [Tech101](https://www.tech101.com.np/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
+- [Technorio](https://technorio.com) | Sankhamul, Kathamandu | Web & Application Development,Digital Marketing,Corporate IT Services and Solution
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
