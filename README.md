@@ -63,8 +63,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
-- [Clusus Information Solutions Pvt. Ltd.](http://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused
-  bestowing excellence and distinction to the Banking and Financial industry
+- [Clusus Information Solutions Pvt. Ltd.](http://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused bestowing excellence and distinction to the Banking and Financial industry
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
@@ -198,7 +197,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
 - [Tech101](https://www.tech101.com.np/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
-- [Technorio](https://technorio.com) | Sankhamul, Kathamandu | Web & Application Development,Digital Marketing,Corporate IT Services and Solution
+- [Technorio](https://technorio.com) | Sankhamul, Kathamandu | Web & Application Development, Digital Marketing, Corporate IT Services and Solution
 - [Techno Troop Inc. Pvt. Ltd.](http://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
