@@ -176,7 +176,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Rosebay Consulting Pvt. Ltd.](https://rosebayconsult.com/) | Baluwatar, Kathmandu | Blockchain, Product Development, Data Solutions
 
 ## S - U
-
+- [Sajilo Ride Sharing](https://sajilosaathi.com/) | Sankhamul,Kathmandu | Provide ride sharing functionality similar to patho
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
 - [Seknox Cybersecurity](https://seknox.com) | Jhamsikhel, Lalitpur | We help achieving secure access to internal servers and services using our product TRASA
