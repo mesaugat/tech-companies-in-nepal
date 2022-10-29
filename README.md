@@ -81,6 +81,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Dasmalab](https://dasmalab.com/) | Sanepa, Lalitpur | Software, websites and apps development along with data computing and visualization service
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [Deerhold](http://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
+- [Digital Age Nepal](https://digitalagenepal.com/) | Tahachal-13, Kathmandu, Nepal | Develop promising software that include KYC Management, Screening, CPFDS AML Solutions, Data Validation and Online Accounting Solutions and many more
 - [Docsumo](https://www.docsumo.com/) | Mitrapark, Kathmandu | Intelligent Data Capture and Extraction with OCR and AI
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
 - [D-Tech Office System Pvt. Ltd.](https://d-tech.com.np/) | New Baneshwor, Kathmandu | Software, Web and Corporate Solutions Provider
