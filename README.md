@@ -64,7 +64,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
 - [Clusus Information Solutions Pvt. Ltd.](http://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused bestowing excellence and distinction to the Banking and Financial industry
--[codekarkhana](https://codekarkhana.com/) | Sankhaml, Kathmandu | Software Development, SEO, Hosting reseller
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
