@@ -96,7 +96,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Expresiv Studios](http://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fawesome Apps](http://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
 - [Fusemachines Nepal](http://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
-- [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu | FinTech company providing services to more than 90% of the banks and financial institutions in the country
+- [F1Soft International](http://f1soft.com/) | M&S Tower, Pulchowk, Lalitpur | FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
 
@@ -138,6 +138,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [LinkBinary](https://www.linkbinary.com/) | Birtamode, Jhapa | Provides digital services in simple yet secured, integrated and most comprehensive way while taking care of fairly adrifted digital quality
 - [LIS Nepal](http://www.lisnepal.com.np/) | Manbhawan, Lalitpur | Service centric Information Technology firm with special focus on retail industry. Our expertise lies in Business Intelligence (BI), Data Warehousing, and Data Analytics
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
+- [Logica Beans](www.logicabeans.com) | Lal Colony Marga, Kathmandu | help you mitigate your business’s technological challenges - It's a sister company of F1soft based on software development
 - [Lunover Digital](https://www.lunover.com/) | Naya Bazar, Kathmandu | Information Technology and Services
 
 ## M - O
@@ -188,6 +189,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Softhover](https://www.softhover.com/) | Bansbari Rd, Kathmandu | Mobile Apps and Web Development Services
 - [Sofwena Pvt. Ltd.](https://sofwena.com/) | Patan Dhoka, Lalitpur | Sofwena is a company providing software development and product delivery services to Business House Holds, Agriculture Industry and Financial Management
 - [Source Code Pvt. Ltd.](www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
+- [SoAni Tech Pvt. Ltd.](www.soanitech.com) | Manbhawan, Lalitpur | Software Development Company 
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
