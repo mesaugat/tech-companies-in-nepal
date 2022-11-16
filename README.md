@@ -188,7 +188,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Softhover](https://www.softhover.com/) | Bansbari Rd, Kathmandu | Mobile Apps and Web Development Services
 - [Sofwena Pvt. Ltd.](https://sofwena.com/) | Patan Dhoka, Lalitpur | Sofwena is a company providing software development and product delivery services to Business House Holds, Agriculture Industry and Financial Management
 - [Source Code Pvt. Ltd.](www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
-- [SoAni Tech Pvt. Ltd.](www.soanitech.com) | Manbhawan, Lalitpur | SoAni Tech, an abbreviation for Software and Animation Technologies, is a professional software development company based in Kathmandu Valley. 
+- [SoAni Tech Pvt. Ltd.](www.soanitech.com) | Manbhawan, Lalitpur | Create a space for digitalization and simplify complexity through software
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
