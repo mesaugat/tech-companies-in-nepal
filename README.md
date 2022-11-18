@@ -246,6 +246,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [List of Software and IT Companies in Nepal](http://nistnews.blogspot.com/p/companies.html)
 - [Top 100 IT Companies of Nepal (2012)](http://everestlist.org/top-100-it-companies-nepal-2012)
 - [Machine Learning Companies in Nepal](https://github.com/amitness/ml-companies-in-nepal)
+- [Tech Jobs in Nepal](https://github.com/milanshresta/tech-jobs-in-nepal)
 
 ## License
 
