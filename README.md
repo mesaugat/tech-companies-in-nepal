@@ -216,6 +216,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## V - X
 
+- [Vairav Technology](https://vairav.net/) | Baluwatar, Kathmandu | Vairav Technlogy is a cybersecurity agency which follows global standards and framework in technology, audit and security, adopting them to suit the client's need and urgency without compromising the essence of their companies
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Software development and information technology (IT) service support center for Verisk Analytics
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
