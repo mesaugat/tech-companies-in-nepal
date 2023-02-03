@@ -118,6 +118,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Infinite IT Solutions Nepal](https://infiniteitsolutionsnepal.com/) | Oil Nigam Kharji, Biratnagar | Provide end-to-end software and mobile application development services
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
+- [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
 - [IntroCept Nepal](http://nepal.introcept.co/) | Dhobighat, Lalitpur | A concept development company with skills and expertise to facilitate complex business solutions
 - [Ishani Technology Pvt. Ltd.](http://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
