@@ -71,7 +71,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Cotiviti Nepal](http://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
 - [Curves n' Colors](http://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
-- [Crimson Tech](http://crimsontech.io/) | balkumari, Lalitpur | Engineering Solution specialization on Computeer vison, AI/ML, IOT, Software Development, Industrial Automation
+- [Crimson Tech](http://crimsontech.io/) | Balkumari, Lalitpur | Engineering Solution specialization on Computer vison, AI/ML, IOT, Software Development, Industrial Automation
 
 ## D - F
 
