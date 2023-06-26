@@ -47,6 +47,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
 - [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
 - [Awecode](http://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
+- [Ayat Digital Pvt. Ltd.](https://www.ayatdigital.com/) | Balkhu, Kathmandu | We innovate, discover, invent and integrate technology to simplify and ease lives
 - [Bajra Technologies](http://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](http://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
