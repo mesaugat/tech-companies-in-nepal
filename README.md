@@ -73,6 +73,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
 - [Crystal Infosys](http://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
 - [Curves n' Colors](http://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
+- [Cyclone Nepal Infotech Pvt. Ltd](https://cninfotech.com/) | Shankhamul, Kathmandu | Transform Your Business Into
+Digital Platform
 
 ## D - F
 
