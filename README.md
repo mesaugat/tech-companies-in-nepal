@@ -234,6 +234,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebRobo](https://www.web-robo.com/) | Setopul, Kathmandu | Creative website development and digital marketing
 - [Wiseyak Inc.](https://wiseyak.com) | Bhatbhateni, Kathmandu | We offer unique solutions around clinical decision support across the healthcare industry in a unified platform using Artificial Intelligence and Machine Learning
+- [Wesionary Team](https://wesionary.team) | Balkumari KVD Complex, Lalitpur | Beyond Feature Development Towards Business Co-Creation
 - [Webpoint Solutions, LLC](https://www.webpoint.io/) | Sanepa, Lalitpur | Web Development and Digital Marketing Agency
 - [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
