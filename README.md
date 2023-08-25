@@ -139,6 +139,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
 - [Kathmandu Living Labs](http://www.kathmandulivinglabs.org/) | Maharajgunj, Kathmandu | Non Profit civic tech company
 - [Kazi Studios](http://www.kazistudios.com/) | Ekantakuna, Kathmandu | Solving complex problems through design and technology
+- [Lanceme Up](https://lancemeup.com/) | Dhobighat, Lalitpur | Your all-in-one virtual workspace for managing clients and teams
 - [Laser InfoTech Pvt. Ltd.](http://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build world-class software for you
 - [Libresoft IT Solutions](http://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings
