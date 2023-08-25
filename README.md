@@ -112,6 +112,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
 - [Gurzu](https://gurzu.com/) | Lalitpur, Kathmandu | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
+- [Hamro Patro](https://hamropatro.com) | Sifal, Kathmandu | Hamro Patro is one of the first Nepali app to include Nepali Patro
 - [Heartsun Technology](http://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](http://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
@@ -235,6 +236,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebRobo](https://www.web-robo.com/) | Setopul, Kathmandu | Creative website development and digital marketing
 - [Wiseyak Inc.](https://wiseyak.com) | Bhatbhateni, Kathmandu | We offer unique solutions around clinical decision support across the healthcare industry in a unified platform using Artificial Intelligence and Machine Learning
+- [Wesionary Team](https://wesionary.team) | Balkumari, Lalitpur | Beyond Feature Development Towards Business Co-Creation
 - [Webpoint Solutions, LLC](https://www.webpoint.io/) | Sanepa, Lalitpur | Web Development and Digital Marketing Agency
 - [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
