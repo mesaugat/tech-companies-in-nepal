@@ -162,6 +162,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Microsoft Innovation Center Nepal](http://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](http://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
+- [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
 - [Nepasoft Solutions LLC](http://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
@@ -195,6 +196,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Semantic Creation](http://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
 - [Smartmobe Solutions](https://smartmobe.com/) | Tripureshwor, Kathmandu | Mobile Apps, Graphic Design, and Web Development Services
+- [Sofsee Tech](https://sofsee.com) | Mahendranagar, Kanchanpur | A full-service IT Company that provides solutions to grow businesses with development tools, technology and digital marketing strategies
 - [Softhover](https://www.softhover.com/) | Bansbari Rd, Kathmandu | Mobile Apps and Web Development Services
 - [Sofwena Pvt. Ltd.](https://sofwena.com/) | Patan Dhoka, Lalitpur | Sofwena is a company providing software development and product delivery services to Business House Holds, Agriculture Industry and Financial Management
 - [Source Code Pvt. Ltd.](www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
