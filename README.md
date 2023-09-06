@@ -209,6 +209,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Tech Bizz Pvt. Ltd.](http://www.techbizznepal.com/) | Maitidevi, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
 - [Tech Kunja Pvt. Ltd.](http://techkunja.com.np/) | Patan, Lalitpur | Web design, web development, AI, graphics design and consulting services
 - [Tech One Global Pvt. Ltd.](https://www.techoneglobal.com/) | Naxal, Kathmandu | Technology solutions to maximize your ROI and secure your organization
+- [Techie IT Pvt. Ltd.](https://www.techie.com.np) | Mid Baneshwor, Kathmandu | Web Application Development, eCommerce Development, App Development and Digital Marketing
 - [Tech101](https://www.tech101.com.np/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Technorio](https://technorio.com) | Sankhamul, Kathamandu | Web & Application Development, Digital Marketing, Corporate IT Services and Solution
