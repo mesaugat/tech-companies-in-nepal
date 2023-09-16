@@ -199,8 +199,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Sofsee Tech](https://sofsee.com) | Mahendranagar, Kanchanpur | A full-service IT Company that provides solutions to grow businesses with development tools, technology and digital marketing strategies
 - [Softhover](https://www.softhover.com/) | Bansbari Rd, Kathmandu | Mobile Apps and Web Development Services
 - [Sofwena Pvt. Ltd.](https://sofwena.com/) | Patan Dhoka, Lalitpur | Sofwena is a company providing software development and product delivery services to Business House Holds, Agriculture Industry and Financial Management
-- [Source Code Pvt. Ltd.](www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
-- [SoAni Tech Pvt. Ltd.](www.soanitech.com) | Manbhawan, Lalitpur | Create a space for digitalization and simplify complexity through software
+- [Source Code Pvt. Ltd.](https://www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
+- [SoAni Tech Pvt. Ltd.](https://www.soanitech.com) | Manbhawan, Lalitpur | Create a space for digitalization and simplify complexity through software
 - [Spark Tech](http://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
@@ -224,7 +224,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Provider of software development services for higher-education, healthcare and business markets
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
 - [Unifun](https://unifun.com/) | Nagpokhari, Kathmandu | Unifun is a provider of high-class IT products for Mobile Operators
-- [Unlimited Technology Pvt. Ltd.](http://unlimit.com) | Khichapokhari, Kathmandu | Expertise in business software, custom software, business intelligence, document management/collaboration, mobile and infrastructure solutions
+- [Unlimited Technology Pvt. Ltd.](https://unlimit.com) | Khichapokhari, Kathmandu | Expertise in business software, custom software, business intelligence, document management/collaboration, mobile and infrastructure solutions
 - [UXCam](https://uxcam.com/) | Bhanimandal, Lalitpur | UXCam captures every micro interaction on your app, allowing you to replay, analyze and optimize user experience
 
 ## V - X
