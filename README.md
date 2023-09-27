@@ -161,6 +161,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [Microsoft Innovation Center Nepal](http://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
+- [The Next Coders](http://thenextcoders.com/) | Birendrangar, Surkhet | Nepal's Top Web & Mobile App Developers 
 - [Nagarjun Software Technosys Pvt. Ltd.](http://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
 - [Nepasoft Solutions LLC](http://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
