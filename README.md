@@ -162,6 +162,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
+- [Nagarjun Software Technosys Pvt. Ltd.](http://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
@@ -216,6 +217,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Technorio](https://technorio.com) | Sankhamul, Kathamandu | Web & Application Development, Digital Marketing, Corporate IT Services and Solution
 - [Techno Troop Inc. Pvt. Ltd.](https://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
+- [The Next Coders](https://thenextcoders.com/) | Birendrangar, Surkhet | Nepal's Top Web & Mobile App Developers
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](https://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Truemark](https://truemark.dev) | Ranibari Chowk, Kathmandu | We are remote first, quality focused outsourcing company
