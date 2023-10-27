@@ -49,6 +49,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
 - [Awecode](https://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
 - [Ayat Digital Pvt. Ltd.](https://www.ayatdigital.com/) | Balkhu, Kathmandu | We innovate, discover, invent and integrate technology to simplify and ease lives
+- [Axios Softwork](https://axiossoftworks.com/) | Banepa-1, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
 - [Bajra Technologies](https://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [Bidhee Pvt. Ltd.](https://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
@@ -115,12 +116,14 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Hamro Patro](https://hamropatro.com) | Sifal, Kathmandu | Hamro Patro is one of the first Nepali app to include Nepali Patro
 - [Heartsun Technology](https://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](https://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
+- [HiTech Solutions & Services Pvt. Ltd.](https://hitechnepal.com.np/) | Kalimati, Kathmandu | Provides service on Application Software, Customized Software Development, Web Site Design and Development, Web & Mobile Application development and Hardware Sales & Networking Solutions
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
 - [Impetus Incorporation Pvt. Ltd.](https://impetus.com.np/) | Pulchowk, Lalitpur | IT Offshore Service Provider
 - [Incessant Rain Animation Studios](https://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
+- [Inficare](https://www.inficare.com.my/) | Gairidhara, Kathmandu | Provides completely tailored software development & consultancy services for financial institutions
 - [Infinia Hub Pvt. Ltd.](https://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
 - [Infinite IT Solutions Nepal](https://infiniteitsolutionsnepal.com/) | Oil Nigam Kharji, Biratnagar | Provide end-to-end software and mobile application development services
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
@@ -181,6 +184,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Perfect Active Solutions Pvt. Ltd.](https://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
 - [Pioneer Solutions](https://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Professional Computer System Pvt. Ltd.](https://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
+- [Progressive Labs Pvt. Ltd](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
 - [Proshore](https://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
 - [QPay](https://www.qpay.com.np/) | Baluwatar, Kathmandu | Mobile based payment solution
 - [Ribera Solutions](https://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
@@ -198,6 +202,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
 - [Smartmobe Solutions](https://smartmobe.com/) | Tripureshwor, Kathmandu | Mobile Apps, Graphic Design, and Web Development Services
 - [Sofsee Tech](https://sofsee.com) | Mahendranagar, Kanchanpur | A full-service IT Company that provides solutions to grow businesses with development tools, technology and digital marketing strategies
+- [Softbenz Infosys](https://softbenz.com/) | Shankhamul, Kathmandu | Provide service on website design and software development along with mobile app development, digital marketing and graphics designing
 - [Softhover](https://www.softhover.com/) | Bansbari Rd, Kathmandu | Mobile Apps and Web Development Services
 - [Sofwena Pvt. Ltd.](https://sofwena.com/) | Patan Dhoka, Lalitpur | Sofwena is a company providing software development and product delivery services to Business House Holds, Agriculture Industry and Financial Management
 - [Source Code Pvt. Ltd.](https://www.sourcecode.com.np/) | Durbar Marg, Kathmandu | Financial technology company established with the aim of simplifying technology for capital markets
