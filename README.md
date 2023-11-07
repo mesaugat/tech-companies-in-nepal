@@ -165,7 +165,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
-- [Nagarjun Software Technosys Pvt. Ltd.](http://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
+- [Naxa Pvt Ltd](https://naxa.com.np/) | Maharajgunj-3, Kathmandu | The company was established in 2014 with a mission to address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology.
 - [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
