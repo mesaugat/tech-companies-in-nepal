@@ -198,6 +198,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Sajilo Saathi](https://sajilosaathi.com/) | Sankhamul, Kathmandu | Ride sharing app
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
+- [SecurityPal](https://www.securitypalhq.com/) | Baluwatar, Kathmandu | SecurityPal, a fast-growing early-stage startup based out of San Francisco, is on a mission to power growth through security.
 - [Seknox Cybersecurity](https://seknox.com) | Jhamsikhel, Lalitpur | We help achieving secure access to internal servers and services using our product TRASA
 - [Semantic Creation](https://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
