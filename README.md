@@ -187,6 +187,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Progressive Labs Pvt. Ltd](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
 - [Proshore](https://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
 - [QPay](https://www.qpay.com.np/) | Baluwatar, Kathmandu | Mobile based payment solution
+- [Rara Labs](https://www.raralabs.com/) | Manbhawan, Lalitpur | With over 15 years of experience, they have been creating beautiful software for our clients all over the world.
 - [Renegade Insurance](https://renegadeinsurance.com/) | Ekantakuna, Lalitpur | A technology-driven insurance brokerage in the US market that combines cutting-edge tech and modern consumerism with an old-fashioned human touch
 - [Ribera Solutions](https://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
