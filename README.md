@@ -165,7 +165,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
-- [Naxa Pvt Ltd](https://naxa.com.np/) | Maharajgunj-3, Kathmandu | The company was established in 2014 with a mission to address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology.
+- [Naxa Pvt. Ltd.](https://naxa.com.np/) | Maharajgunj, Kathmandu | Address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology
 - [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
@@ -184,10 +184,10 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Perfect Active Solutions Pvt. Ltd.](https://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
 - [Pioneer Solutions](https://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Professional Computer System Pvt. Ltd.](https://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
-- [Progressive Labs Pvt. Ltd](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
+- [Progressive Labs Pvt. Ltd.](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
 - [Proshore](https://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
 - [QPay](https://www.qpay.com.np/) | Baluwatar, Kathmandu | Mobile based payment solution
-- [Rara Labs](https://www.raralabs.com/) | Manbhawan, Lalitpur | With over 15 years of experience, they have been creating beautiful software for our clients all over the world.
+- [Rara Labs](https://www.raralabs.com/) | Manbhawan, Lalitpur | We serve global customers by developing deep technology software products with specialization on Automation, Digitization, Distribution, and Data Governance
 - [Renegade Insurance](https://renegadeinsurance.com/) | Ekantakuna, Lalitpur | A technology-driven insurance brokerage in the US market that combines cutting-edge tech and modern consumerism with an old-fashioned human touch
 - [Ribera Solutions](https://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
@@ -199,7 +199,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Sajilo Saathi](https://sajilosaathi.com/) | Sankhamul, Kathmandu | Ride sharing app
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
-- [SecurityPal](https://www.securitypalhq.com/) | Baluwatar, Kathmandu | SecurityPal, a fast-growing early-stage startup based out of San Francisco, is on a mission to power growth through security.
+- [SecurityPal](https://www.securitypalhq.com/) | Baluwatar, Kathmandu | SecurityPal, a fast-growing early-stage startup based out of San Francisco, is on a mission to power growth through security
 - [Seknox Cybersecurity](https://seknox.com) | Jhamsikhel, Lalitpur | We help achieving secure access to internal servers and services using our product TRASA
 - [Semantic Creation](https://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
