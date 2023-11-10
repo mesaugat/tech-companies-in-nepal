@@ -130,6 +130,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
+- [InternSathi](https://internsathi.com/) | Sankhamul, Kathmandu | InternSathi is an internship-focused platform started with the main focus of helping students get quality internships and help them excel at it
 - [IntroCept Nepal](https://nepal.introcept.co/) | Dhobighat, Lalitpur | A concept development company with skills and expertise to facilitate complex business solutions
 - [Ishani Technology Pvt. Ltd.](https://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](https://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
