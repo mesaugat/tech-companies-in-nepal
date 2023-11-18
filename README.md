@@ -57,6 +57,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
 - [Braindigit](https://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
+- [Cedar Gate Technologies](https://www.cedargate.com/) | Sanepa, Lalitpur | Provide platform for proactive healthcare and benefits management
 - [CellApp Innovations](https://cellapp.co/) | Lainchaur, Kathmandu | We develop and deliver Accelerating Technology to Organizations and Businesses
 - [Centerpoint Networks Pvt. Ltd.](https://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
 - [Channakya Software Pvt. Ltd.](https://www.channakyasoft.com/) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
