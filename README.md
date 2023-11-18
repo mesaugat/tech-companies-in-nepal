@@ -70,7 +70,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
-- [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | We are one-stop-shop for software development. We provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers.
+- [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | Codniv is a one-stop-shop for software development where we provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
 - [Cotiviti Nepal](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
