@@ -263,6 +263,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Yomari Information Services Incorporated](https://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
 - [YoungInnovations](https://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 - [Young Minds Creation Pvt. Ltd.](https://www.youngminds.com.np/) | Shantinagar, Kathmandu | We are Software Development & Website Design Company
+- [Zegal Nepal Pvt. Ltd.](https://zegal.com/) | Jawalakhel, Lalitpur | Zegal is the premier end-to-end platform for legal contract management and automation
 - [ZurelSoft](https://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](https://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
 
