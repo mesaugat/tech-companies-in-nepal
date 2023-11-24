@@ -216,6 +216,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Spark Tech](https://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](https://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
+- [SUNAI Technology Pvt. Ltd.](https://sunai.xyz/) | Gairidhara, Kathmandu | Custom Software Development Outsourcing Company for platform-based solutions, We Specializes in cloud/DevOps, mobile/web app development & product design
 - [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](https://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
