@@ -249,6 +249,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Visualise VR](https://visualisevr.com/) | Pulchowk, Lalitpur | Help business benefit from mixed reality technologies
 - [Viveka Health](https://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital Marketing, Optimized Website, Management System, Mobile Applications, Software Integration, Advanced Level Programming Course, IT Consultation
+- [Waterflow Technology](https://waterflow.technology/) | Durbar Marg, Kathmandu | Prioritize innovative solutions for clients transitioning from legacy software to modern practices
 - [Webpage Nepal Pvt. Ltd.](https://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebRobo](https://www.web-robo.com/) | Setopul, Kathmandu | Creative website development and digital marketing
 - [Wiseyak Inc.](https://wiseyak.com) | Bhatbhateni, Kathmandu | We offer unique solutions around clinical decision support across the healthcare industry in a unified platform using Artificial Intelligence and Machine Learning
