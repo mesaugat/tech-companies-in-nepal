@@ -57,6 +57,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
 - [Braindigit](https://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
+- [Cedar Gate Technologies](https://www.cedargate.com/) | Sanepa, Lalitpur | Provide platform for proactive healthcare and benefits management
 - [CellApp Innovations](https://cellapp.co/) | Lainchaur, Kathmandu | We develop and deliver Accelerating Technology to Organizations and Businesses
 - [Centerpoint Networks Pvt. Ltd.](https://centerpoint-networks.com/) | Golfutar, Kathmandu | Software Solutions, Web Application Development, ERP, CRM
 - [Channakya Software Pvt. Ltd.](https://www.channakyasoft.com/) | Sinamangal, Kathmandu | We build banking software, assets management software, attendance management software, payroll management software, human resource management and cheque management software
@@ -70,6 +71,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
 - [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
+- [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | Codniv is a one-stop-shop for software development where we provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
 - [Cotiviti Nepal](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
@@ -130,6 +132,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
+- [InternSathi](https://internsathi.com/) | Sankhamul, Kathmandu | InternSathi is an internship-focused platform started with the main focus of helping students get quality internships and help them excel at it
 - [IntroCept Nepal](https://nepal.introcept.co/) | Dhobighat, Lalitpur | A concept development company with skills and expertise to facilitate complex business solutions
 - [Ishani Technology Pvt. Ltd.](https://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](https://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
@@ -213,6 +216,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Spark Tech](https://spark.com.np/) | Tinkune, Kathmandu | Tech agency that creates innovative and meaningful digital products
 - [SPI Nepal](https://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
+- [SUNAI Technology Pvt. Ltd.](https://sunai.xyz/) | Gairidhara, Kathmandu | Custom software development outsourcing company for platform-based solutions specialized in cloud/devops, mobile/web app development & product design
 - [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](https://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
@@ -246,6 +250,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Visualise VR](https://visualisevr.com/) | Pulchowk, Lalitpur | Help business benefit from mixed reality technologies
 - [Viveka Health](https://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital Marketing, Optimized Website, Management System, Mobile Applications, Software Integration, Advanced Level Programming Course, IT Consultation
+- [Waterflow Technology](https://waterflow.technology/) | Durbar Marg, Kathmandu | Prioritize innovative solutions for clients transitioning from legacy software to modern practices
 - [Webpage Nepal Pvt. Ltd.](https://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
 - [WebRobo](https://www.web-robo.com/) | Setopul, Kathmandu | Creative website development and digital marketing
 - [Wiseyak Inc.](https://wiseyak.com) | Bhatbhateni, Kathmandu | We offer unique solutions around clinical decision support across the healthcare industry in a unified platform using Artificial Intelligence and Machine Learning
@@ -261,6 +266,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Yomari Information Services Incorporated](https://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
 - [YoungInnovations](https://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 - [Young Minds Creation Pvt. Ltd.](https://www.youngminds.com.np/) | Shantinagar, Kathmandu | We are Software Development & Website Design Company
+- [Zegal Nepal Pvt. Ltd.](https://zegal.com/) | Jawalakhel, Lalitpur | Zegal is the premier end-to-end platform for legal contract management and automation
 - [ZurelSoft](https://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](https://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
 
