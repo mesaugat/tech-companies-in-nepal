@@ -104,6 +104,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [ESignature Pvt. Ltd.](https://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
 - [Exotrac](https://exotrac.com/) | Old Baneshwor, Kathmandu | Leading provider of real time logistics management software for automotive, manufacturing, retail, and supply chain logistics industries
 - [Expresiv Studios](https://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
+- [Fatdog Labs](https://fatdoglabs.com/) | Baneshwor, Kathmandu | Web Application Development, Mobile Application Development, Android & iOS Application Development
 - [Fawesome Apps](https://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
 - [Fusemachines Nepal](https://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
 - [F1Soft International](https://f1soft.com/) | Pulchowk, Lalitpur | FinTech company providing services to more than 90% of the banks and financial institutions in the country
