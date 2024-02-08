@@ -219,7 +219,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [SUNAI Technology Pvt. Ltd.](https://sunai.xyz/) | Gairidhara, Kathmandu | Custom software development outsourcing company for platform-based solutions specialized in cloud/devops, mobile/web app development & product design
 - [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
-- [Sursa Technology Pvt. Ltd.](https://www.sursatech.com/) | Maharajgunj, Kathmandu | From the Base of Himalayas
+- [Sursa Tech Pvt. Ltd.](https://www.sursatech.com/) | Maharajgunj, Kathmandu | IT service provider with a major focus on software development, quality analysis and mobile development projects
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](https://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Swift Technology](https://www.swifttech.com.np/) | Panipokhari, Kathmandu | Leading FinTech company established in 2007, expertise in digital financial services, Mobile Banking, Internet Banking, Remittance System, Mobile wallet and customized software development
@@ -252,7 +252,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
 - [Visualise VR](https://visualisevr.com/) | Pulchowk, Lalitpur | Help business benefit from mixed reality technologies
 - [Viveka Health](https://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
-- [Vurilo Nepal Pvt. Ltd.](https://www.vurilo.com/) | Maharajgunj, Kathmandu | Best e-learning platform in Nepal
+- [Vurilo Nepal Pvt. Ltd.](https://www.vurilo.com/) | Maharajgunj, Kathmandu | Best e-learning platform in Nepal, make quality education accessible to as many people as possible
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital Marketing, Optimized Website, Management System, Mobile Applications, Software Integration, Advanced Level Programming Course, IT Consultation
 - [Waterflow Technology](https://waterflow.technology/) | Durbar Marg, Kathmandu | Prioritize innovative solutions for clients transitioning from legacy software to modern practices
 - [Webpage Nepal Pvt. Ltd.](https://webpagenepal.com/) | New Road, Pokhara | Pokhara based web development company
