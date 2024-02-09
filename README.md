@@ -155,6 +155,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [LIS Nepal](https://www.lisnepal.com.np/) | Manbhawan, Lalitpur | Service centric Information Technology firm with special focus on retail industry. Our expertise lies in Business Intelligence (BI), Data Warehousing, and Data Analytics
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
 - [Lunover Digital](https://www.lunover.com/) | Naya Bazar, Kathmandu | Information Technology and Services
+- [LTech Services Inc](https://www.useltech.com/) | Thapagaun, Kathmandu | Web development, App development, Outsourcing, DevOps, QA, Digital marketing and SEO
 
 ## M - O
 
