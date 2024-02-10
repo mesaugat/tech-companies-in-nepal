@@ -279,8 +279,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## Additional Resources
 
-- [Nepali Companies on GitHub](https://github.com/developers-nepal/companies)
-- [List of Software and IT Companies in Nepal](https://nistnews.blogspot.com/p/companies.html)
 - [Machine Learning Companies in Nepal](https://github.com/amitness/ml-companies-in-nepal)
 
 ## License
