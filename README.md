@@ -154,7 +154,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [LinkBinary](https://www.linkbinary.com/) | Birtamode, Jhapa | Provides digital services in simple yet secured, integrated and most comprehensive way while taking care of fairly adrifted digital quality
 - [LIS Nepal](https://www.lisnepal.com.np/) | Manbhawan, Lalitpur | Service centric Information Technology firm with special focus on retail industry. Our expertise lies in Business Intelligence (BI), Data Warehousing, and Data Analytics
 - [LogPoint](https://www.logpoint.com/) | Jawalakhel, Lalitpur | Provides full enterprise SIEM solution
-- [LTech Services Inc.](https://www.useltech.com/) | Thapagaun, Kathmandu | Web development, App development, Outsourcing, DevOps, QA, Digital marketing and SEO
+- [Ltech Services Inc.](https://www.useltech.com/) | Thapagaun, Kathmandu | Web development, App development, Outsourcing, DevOps, QA, Digital marketing and SEO
 - [Lunover Digital](https://www.lunover.com/) | Naya Bazar, Kathmandu | Information Technology and Services
 
 ## M - O
