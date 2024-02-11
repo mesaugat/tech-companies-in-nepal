@@ -73,6 +73,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
 - [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | Codniv is a one-stop-shop for software development where we provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
+- [Convergetree Technologies Pvt. Ltd.](https://www.convergetree.com/) | Kupondole, Lalitpur | Full-stack software development company specializing in Web and Mobile applications including high-load enterprise solutions, Big Data, and parallel data processing
 - [Cotiviti Nepal](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
 - [Crystal Infosys](https://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
@@ -115,7 +116,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [GrowByData](https://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
-- [Gurzu](https://gurzu.com/) | Lalitpur, Kathmandu | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
+- [Gurzu](https://gurzu.com/) | Balkumari, Lalitpur | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
 - [Hamro Patro](https://hamropatro.com) | Sifal, Kathmandu | Hamro Patro is one of the first Nepali app to include Nepali Patro
 - [Heartsun Technology](https://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](https://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
