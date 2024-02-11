@@ -73,7 +73,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
 - [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | Codniv is a one-stop-shop for software development where we provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
-- [Convergetree Technologies Pvt Ltd.](https://www.convergetree.com/) | Lalitpur , Nepal | Convergetree Technologies is a full-stack software development company specializing in Web and Mobile applications including high-load enterprise solutions, Big Data, and parallel data processing.
+- [Convergetree Technologies Pvt. Ltd.](https://www.convergetree.com/) | Lalitpur , Nepal | Full-stack software development company specializing in Web and Mobile applications including high-load enterprise solutions, Big Data, and parallel data processing
 - [Cotiviti Nepal](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
 - [Crystal Infosys](https://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
