@@ -51,6 +51,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Ayat Digital Pvt. Ltd.](https://www.ayatdigital.com/) | Balkhu, Kathmandu | We innovate, discover, invent and integrate technology to simplify and ease lives
 - [Axios Softwork](https://axiossoftworks.com/) | Banepa, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
 - [Bajra Technologies](https://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
+- [BatchNepal Consultancy](https://batchnepal.com/) | Bishalnagar, Dhangadhi | Leader in IT services, consulting, outsourcing, and business solutions, leverages technology for business transformation and success
 - [Bidhee Pvt. Ltd.](https://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
 - [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
