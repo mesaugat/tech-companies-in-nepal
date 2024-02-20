@@ -84,6 +84,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## D - F
 
 - [Daanfe Inc Pvt. Ltd.](https://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
+- [DalloTech Pvt. Ltd.](https://dallotech.com/) | Khumaltar Height Marg, Lalitpur, Nepal | We build software solutions tailored for your problems
 - [Danfe Solution Pvt. Ltd.](https://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
 - [Danphe Software Labs Pvt. Ltd.](https://www.danpheit.com/) | Anamnagar, Kathmandu | We specialize in Software and Web Development
 - [Dasmalab](https://dasmalab.com/) | Sanepa, Lalitpur | Software, websites and apps development along with data computing and visualization service
