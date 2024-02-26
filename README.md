@@ -70,7 +70,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
 - [Clusus Information Solutions Pvt. Ltd.](https://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused bestowing excellence and distinction to the Banking and Financial industry
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
-- [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna Rd, Lalitpur | WordPress theme and plugin development agency
+- [Code Pixelz Media Pvt. Ltd.](https://codepixelzmedia.com/) | Ekantakuna, Lalitpur | WordPress theme and plugin development agency
 - [Codewing Solutions](https://codewing.co/) | Bishalnagar, Kathmandu | Codewing Solutions is a creative digital agency specialized in providing quality website design and development, search engine optimisation (SEO) and mobile apps development
 - [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | Codniv is a one-stop-shop for software development where we provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
@@ -83,7 +83,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## D - F
 
-- [Daanfe Inc Pvt. Ltd.](https://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
+- [Daanfe Inc Pvt. Ltd.](https://www.daanfe.com/) | Sankhamul, Kathmandu | Wings For Ideas
+- [Dallo Tech](https://dallotech.com/) | Khumaltar, Lalitpur | We build software solutions tailored for your problems
 - [Danfe Solution Pvt. Ltd.](https://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
 - [Danphe Software Labs Pvt. Ltd.](https://www.danpheit.com/) | Anamnagar, Kathmandu | We specialize in Software and Web Development
 - [Dasmalab](https://dasmalab.com/) | Sanepa, Lalitpur | Software, websites and apps development along with data computing and visualization service
