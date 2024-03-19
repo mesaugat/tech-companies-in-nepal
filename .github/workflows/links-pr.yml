@@ -1,0 +1,17 @@
+name: Links Checker
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.9.3
+        with:
+          fail: true
