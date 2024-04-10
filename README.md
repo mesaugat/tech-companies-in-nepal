@@ -100,6 +100,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [E-Digital Nepal Pvt. Ltd.](https://edigitalnepal.com) | Tinkune, Kathmandu | We work in transforming the education sector of Nepal with the use of information and communication technology
 - [Eepos IT Services](https://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
 - [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & iOS Application Development
+- [Elytra Solutions Pvt. Ltd.](https://elytrasolutions.com/) | Tokha, Kathmandu | Web Development, Mobile Application Development, Software Development, Blockchain Development, Data Analysis, Digital Marketing
 - [Eminence Ways Pvt. Ltd.](https://eminenceways.com/) | Maitidevi, Kathmandu | Vulnerability Assessment and Penetration Testing, Information Systems Audit, Dedicated Cyber Security Company
 - [E-Multitech Solution Pvt. Ltd.](https://www.emultitechsolution.com) | Kupondol, Lalitpur | We are a company specialising in auction software, web design, web development, mobile apps, e-commerce, and other services
 - [Enliv Technology](https://enlivit.com/) | Sinamangal, Kathmandu | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
