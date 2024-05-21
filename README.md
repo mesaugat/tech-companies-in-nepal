@@ -102,7 +102,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & iOS Application Development
 - [Eminence Ways Pvt. Ltd.](https://eminenceways.com/) | Maitidevi, Kathmandu | Vulnerability Assessment and Penetration Testing, Information Systems Audit, Dedicated Cyber Security Company
 - [E-Multitech Solution Pvt. Ltd.](https://www.emultitechsolution.com) | Kupondol, Lalitpur | We are a company specialising in auction software, web design, web development, mobile apps, e-commerce, and other services
-- [Enliv Technology](https://enlivit.com/) | Sinamangal, Kathmandu | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
+- [Enliv Technology](https://direct.me/wukonglogin) | Sinamangal, Kathmandu | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
 - [E-Prabidhi Pvt. Ltd.](https://www.eprabidhi.com/) | Putalisadak, Kathmandu | Web Developement, Domain Hosting, Software Development and Graphics Designing
 - [ESignature Pvt. Ltd.](https://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
 - [Exotrac](https://exotrac.com/) | Old Baneshwor, Kathmandu | Leading provider of real time logistics management software for automotive, manufacturing, retail, and supply chain logistics industries
