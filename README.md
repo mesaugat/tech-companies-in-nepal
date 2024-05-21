@@ -126,6 +126,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [HelloWorldCorp](https://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiTech Solutions & Services Pvt. Ltd.](https://hitechnepal.com.np/) | Kalimati, Kathmandu | Provides service on Application Software, Customized Software Development, Web Site Design and Development, Web & Mobile Application development and Hardware Sales & Networking Solutions
 - [HiUp Solutions Pvt. Ltd.](https://hiupapp.com/) | Chabahil, Kathmandu | HiUp app enables you to get the best jobs in the construction, retail and hospitality
+- [Hoostly](https://hoostly.com/) | Gwarko, Kathmandu | Affordable domains & shared hosting
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
 - [Impetus Incorporation Pvt. Ltd.](https://impetus.com.np/) | Pulchowk, Lalitpur | IT Offshore Service Provider
