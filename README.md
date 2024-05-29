@@ -57,6 +57,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
 - [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
 - [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
+- [Blanxer Technologies Pvt. Ltd.](https://www.blanxer.com/) | Madhyapur Thimi, Bhaktapur | All-in-one e-commerce platform for creating websites, managing orders, and streamlining social media DM orders
 - [Braindigit](https://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [Cedar Gate Technologies](https://www.cedargate.com/) | Sanepa, Lalitpur | Provide platform for proactive healthcare and benefits management
