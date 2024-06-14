@@ -179,6 +179,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Naxa Pvt. Ltd.](https://naxa.com.np/) | Maharajgunj, Kathmandu | Address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology
+- [NebulaLeap Technology Pvt. Ltd.](https://nebulaleap.com) | Chakupat, Lalitpur | We are top 1% software engineers, pioneer in developing MVP for startups and also work on E-commerce development
 - [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
 - [Nepal Digital Systems Pvt. Ltd.](https://nepaldigisys.com/) | Dhobighat, Lalitpur | A consulting company specialized in hardware design, embedded software (firmware) engineering, and Internet of Things (IoT) solutions
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
