@@ -137,7 +137,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Infinia Hub Pvt. Ltd.](https://infiniahub.com/) | Tinkune, Kathmandu | Software Development Company
 - [Infinite IT Solutions Nepal](https://infiniteitsolutionsnepal.com/) | Oil Nigam Kharji, Biratnagar | Provide end-to-end software and mobile application development services
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
-- [Inflancer Technology](https://inflancer.net/) | Gwarko, Lalitpur | Inflancer Technology excels in MERN Stack, React Native, Flutter, React, Laravel, Digital Marketing, and SEO, delivering innovative, top-quality software solutions through a dedicated and skilled team
+- [Inflancer Technology](https://inflancer.net/) | Gwarko, Lalitpur | Excels in MERN Stack, React Native, Flutter, React, Laravel, Digital Marketing, and SEO, delivering innovative, top-quality software solutions through a dedicated and skilled team
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
 - [Inquiry Nepal](https://www.inquirynepal.com) | New Baneshwor, Kathmandu | Nepal's Premier Business Directory which aims to Connect Nepali Businesses to it's customers
