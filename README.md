@@ -38,6 +38,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Aayulogic Pvt. Ltd.](https://aayulogic.com/) | Min Bhawan, Kathmandu | Software solutions including, but not limited to, web development, web desigining, web/domain hosting and CMS
 - [Admana Technology Pvt. Ltd.](https://admana.net/) | Tripureshwor, Kathmandu | We are a Digital Ad Network Platform through which you can put your ads in 70+ websites of Nepal and pay according to your budget
 - [Agile Solutions](https://agile.com.np) | Garidhara, Kathmandu | We provide a full range of ERP, CRM, and BI services from implementation to support and development
+- [AITC International Pvt. Ltd.](https://aitc.ai) | Radhe Radhe, Bhaktapur | IT solutions, Web designing, Software development, Digital marketing and App development
 - [Allied Netlink Technology Pvt. Ltd.](https://ant.com.np/) | Putalisadak, Kathmandu | Internet Service Provider (ISP)
 - [Ambarkaar Software Pvt. Ltd.](https://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce
 - [Amnil Technologies Pvt. Ltd.](https://amniltech.com/) | Manbhawan, Lalitpur | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application
@@ -56,6 +57,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
 - [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
 - [BlackBox Technologies Pvt. Ltd.](https://www.bboxtech.com/) | Patan, Lalitpur | Market leader in email marketing, offering web-based email marketing solutions and services for organizations who want to maintain an active relationship with their customers
+- [Blanxer Technologies Pvt. Ltd.](https://www.blanxer.com/) | Madhyapur Thimi, Bhaktapur | All-in-one e-commerce platform for creating websites, managing orders, and streamlining social media DM orders
 - [Braindigit](https://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [Cedar Gate Technologies](https://www.cedargate.com/) | Sanepa, Lalitpur | Provide platform for proactive healthcare and benefits management
@@ -100,9 +102,9 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [E-Digital Nepal Pvt. Ltd.](https://edigitalnepal.com) | Tinkune, Kathmandu | We work in transforming the education sector of Nepal with the use of information and communication technology
 - [Eepos IT Services](https://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
 - [E.K. Solutions Pvt. Ltd.](https://ekbana.com/) | Kupondole, Lalitpur | Web Application Development, Mobile Application Development, Android & iOS Application Development
+- [Elytra Solutions Pvt. Ltd.](https://elytrasolutions.com/) | Tokha, Kathmandu | Web Development, Mobile Application Development, Software Development, Blockchain Development, Data Analysis, Digital Marketing
 - [Eminence Ways Pvt. Ltd.](https://eminenceways.com/) | Maitidevi, Kathmandu | Vulnerability Assessment and Penetration Testing, Information Systems Audit, Dedicated Cyber Security Company
 - [E-Multitech Solution Pvt. Ltd.](https://www.emultitechsolution.com) | Kupondol, Lalitpur | We are a company specialising in auction software, web design, web development, mobile apps, e-commerce, and other services
-- [Enliv Technology](https://enlivit.com/) | Sinamangal, Kathmandu | Web Development, Brand Design, Mobile Development - Your ideas, our expertise
 - [E-Prabidhi Pvt. Ltd.](https://www.eprabidhi.com/) | Putalisadak, Kathmandu | Web Developement, Domain Hosting, Software Development and Graphics Designing
 - [ESignature Pvt. Ltd.](https://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
 - [Exotrac](https://exotrac.com/) | Old Baneshwor, Kathmandu | Leading provider of real time logistics management software for automotive, manufacturing, retail, and supply chain logistics industries
@@ -178,7 +180,9 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Naxa Pvt. Ltd.](https://naxa.com.np/) | Maharajgunj, Kathmandu | Address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology
+- [NebulaLeap Technology Pvt. Ltd.](https://nebulaleap.com) | Chakupat, Lalitpur | We are top 1% software engineers, pioneer in developing MVP for startups and also work on E-commerce development
 - [Neem Infosys](https://neeminfosys.com/) | Mahendranagar, Kanchanpur | We develop user-centric website, mobile apps and digital marketing that grows startup and existing businesses in the sales and service industries
+- [Nepal Digital Systems Pvt. Ltd.](https://nepaldigisys.com/) | Dhobighat, Lalitpur | A consulting company specialized in hardware design, embedded software (firmware) engineering, and Internet of Things (IoT) solutions
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
@@ -190,7 +194,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## P - R
 
 - [PageVamp](https://www.pagevamp.com/) | Sanepa, Lalitpur | Create and Update Website from Facebook Page
-- [Parewa Labs Pvt. Ltd.](https://parewalabs.com/) | Lazimpat, Kathmandu | Make products for Programming Enthusiasts
+- [Parewa Labs Pvt. Ltd.](https://parewalabs.com/) | Jhamsikhel, Lalitpur | Products for programming enthusiasts and learners like Programiz.com and Programiz PRO
 - [Pathway Technologies and Services](https://pathway.com.np/) | Thapathali, Kathmandu | Solutions and services in the field of software development, business/knowledge process outsourcing as well as consultancy and advisory services on information and communication technologies
 - [Peace Nepal DOT Com P. Ltd.](https://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Perfect Active Solutions Pvt. Ltd.](https://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
