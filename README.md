@@ -277,6 +277,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## Y - \#
 
+- [YAJ Tech Pvt. Ltd.](https://yajtechnologies.com/) | Kamaladi, Kathmandu | Innovative software development, web design & web hosting company aimed at making people, their lives and business better and smarter
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yellow Nepal Pvt. Ltd. (Fawesome Apps)](https://fawesomeapps.com/) | Putalisadak, Kathmandu | We provide companies with senior tech talents and product development expertise to build world-class software
 - [Yomari Information Services Incorporated](https://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
