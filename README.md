@@ -244,6 +244,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [TechNepal](https://technepal.io) | Nakhipot, Lalitpur | One stop tech news portal in Nepal
 - [Technorio](https://technorio.com) | Sankhamul, Kathamandu | Web & Application Development, Digital Marketing, Corporate IT Services and Solution
 - [Techno Troop Inc. Pvt. Ltd.](https://www.technotroop.com/) | Putalisadak, Kathmandu | Mobile Apps, Graphics Design, and Web Development Services
+- [Teispace](https://teispace.com) | Pokhara, Nepal | Mobile Apps, Web Development, Graphics Design, AI, Digital Marketings
 - [The Next Coders](https://thenextcoders.com/) | Birendrangar, Surkhet | Nepal's Top Web & Mobile App Developers
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](https://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
