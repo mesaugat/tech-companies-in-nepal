@@ -210,6 +210,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 - [Rooster Logic Pvt. Ltd.](https://roosterlogic.com/) | Gairidhara, Kathmandu | Data solutions, Web and mobile app development
 - [Rosebay Consulting Pvt. Ltd.](https://rosebayconsult.com/) | Baluwatar, Kathmandu | Blockchain, Product Development, Data Solutions
+- [Rumsan](https://rumsan.com/) | Kupondole, Lalitpur | Revolutionize the potential of blockchain technology, reshaping its role to contribute to a positive and sustainable future
 
 ## S - U
 
