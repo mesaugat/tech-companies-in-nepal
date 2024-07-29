@@ -189,6 +189,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [NITV Streamz Pvt. Ltd.](https://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions
 - [Okhati Solutions](https://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
+- [Outcode Software](https://outcodesoftware.com/) | Naxal, Kathmandu | Outcode is a product-focused technology services company driven by a vision to create successful products using our expertise in Product, Design, Engineering, Quality and Consulting
 - [Outsource Array](https://outsourcearray.com/) | Thamel, Kathmandu | Design, Development, Maintenance and Support all in one place
 
 ## P - R
