@@ -172,7 +172,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Makura Creations](https://makuracreations.com) | Pulchowk Rd, Patan | Web design/development, Software development, Mobile app development, Social media marketing and SEO
 - [Manaram Technology](https://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
 - [Mandala System Pvt. Ltd.](https://mandalasystem.com.np/) | New Baneshwor, Kathmandu | Web design/development, Desktop Application development
-- [Mantra Ideas Pvt. Ltd.](https://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
+- [Mantra Ideas Pvt. Ltd.](https://mantraideas.com/) | Manbhawan, Lalitpur | IT Company providing services related to web and mobile app development
 - [Mantra IT](https://mantrait.com.np/) | Banglamukhi, Lalitpur | Striving to provide professional IT services to companies seeking prosperity and growth in all of their IT aspects, ranging from developing an excellent website to enhancing their overall digital market achievement
 - [Mercantile Communications Pvt. Ltd.](https://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
