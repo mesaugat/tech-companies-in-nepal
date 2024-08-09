@@ -53,7 +53,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Axios Softwork](https://axiossoftworks.com/) | Banepa, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
 - [Bajra Technologies](https://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [BatchNepal Consultancy](https://batchnepal.com/) | Bishalnagar, Dhangadhi | Leader in IT services, consulting, outsourcing, and business solutions, leverages technology for business transformation and success
-- [Bhoos Games](https://www.bhoos.com/) | Jwagal, Lalitpur | Focused on recreating the conversations, laughter, and trash talk of a real game of cards in a mobile app.
+- [Bhoos Games](https://www.bhoos.com/) | Jwagal, Lalitpur | Recreate conversations, laughter with card games on mobile
 - [Bidhee Pvt. Ltd.](https://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
 - [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
