@@ -154,7 +154,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Janaki Tech](https://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
 - [JankariTech](https://www.jankaritech.com/) | Nayagaun, Pokhara | We specialize in helping customers set up test automation
 - [Javra](https://javra.com/) | Kumaripati, Lalitpur | IT solutions that boost productivity in business
-- [JyabaTech](https://jyaba.tech/) | Shanti Marg, Pokhara | Data Scraping (acquisition) at scale | Data Engineering
+- [JyabaTech](https://jyaba.tech/) | Shanti Marg, Pokhara | Data Scraping (acquisition) at scale & Data Engineering
 - [Karkhana](https://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
 - [Kathmandu Living Labs](https://www.kathmandulivinglabs.org/) | Maharajgunj, Kathmandu | Non Profit civic tech company
 - [Kazi Studios](https://www.kazistudios.com/) | Ekantakuna, Kathmandu | Solving complex problems through design and technology
