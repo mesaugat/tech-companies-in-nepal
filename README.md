@@ -51,7 +51,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Awecode](https://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
 - [Ayat Digital Pvt. Ltd.](https://www.ayatdigital.com/) | Balkhu, Kathmandu | We innovate, discover, invent and integrate technology to simplify and ease lives
 - [Axios Softwork](https://axiossoftworks.com/) | Banepa, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
--  [Adhirohah Technologies](https://ahirohah.com.np/) | Hattiban, Lalitpur | Turning visionary ideas into cutting-edge software solutions that fuel innovation, empower businesses, and shape the future of technology.
+- [Adhirohah Technologies Pvt. Ltd.](https://ahirohah.com.np/) | Hattiban, Lalitpur | Turning visionary ideas into cutting-edge software solutions that fuel innovation, empower businesses, and shape the future of technology.
 - [Bajra Technologies](https://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [BatchNepal Consultancy](https://batchnepal.com/) | Bishalnagar, Dhangadhi | Leader in IT services, consulting, outsourcing, and business solutions, leverages technology for business transformation and success
 - [Bhoos Games](https://www.bhoos.com/) | Jwagal, Lalitpur | Recreate conversations, laughter with card games on mobile
