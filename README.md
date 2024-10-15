@@ -80,7 +80,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Convergetree Technologies Pvt. Ltd.](https://www.convergetree.com/) | Kupondole, Lalitpur | Full-stack software development company specializing in Web and Mobile applications including high-load enterprise solutions, Big Data, and parallel data processing
 - [Cotiviti Nepal](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
-- [Crumet Tech](https://crumet.com/) | Lakeside, Pokhara | Crumet empowers startups with tailored app development, system modernization, software integration, cloud services, digital marketing, and strategic consulting.
+- [Crumet Tech](https://crumet.com/) | Lakeside, Pokhara | Crumet empowers startups with tailored app development, system modernization, software integration, cloud services, digital marketing, and strategic consulting
 - [Crystal Infosys](https://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
 - [Curves n' Colors](https://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
 - [Cyclone Nepal Infotech Pvt. Ltd.](https://cninfotech.com/) | Shankhamul, Kathmandu | Transform Your Business Into Digital Platform
