@@ -48,7 +48,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
 - [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
-- [Avoloft Technologies](https://avoloft.com/) | Tinkune, Kathmandu | Delivers cutting-edge SaaS-based LMS and innovative web and mobile app development solutions.
+- [Avoloft Technologies](https://avoloft.com/) | Tinkune, Kathmandu | Delivers cutting-edge SaaS-based LMS and innovative web and mobile app development solutions
 - [Awecode](https://awecode.com/) | Buddhanagar, Kathmandu | We build awesome applications
 - [Ayat Digital Pvt. Ltd.](https://www.ayatdigital.com/) | Balkhu, Kathmandu | We innovate, discover, invent and integrate technology to simplify and ease lives
 - [Axios Softwork](https://axiossoftworks.com/) | Banepa, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
