@@ -133,6 +133,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Hoostly](https://hoostly.com/) | Gwarko, Kathmandu | Affordable domains & shared hosting
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
+- [Imagio Creations Pvt. Ltd.](https://imagiocreations.com/) | Jhamsikhel, Lalitpur | Software Development, Website Design & Development, Mobile App Development, Branding, Marketing, Staff Augmentation.
 - [Impetus Incorporation Pvt. Ltd.](https://impetus.com.np/) | Pulchowk, Lalitpur | IT Offshore Service Provider
 - [Incessant Rain Animation Studios](https://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
