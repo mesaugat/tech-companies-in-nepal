@@ -70,7 +70,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Chulo Solutions Pvt. Ltd.](https://chulo-solutions.com) | Kumaripati, Lalitpur | Software development company
 - [Cixware Pvt. Ltd.](https://cixware.io) | New Baneshwor, Kathmandu | Web and Mobile apps development, DevOps, Cloud services integration and automation
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
-- [Cloco Nepal Inc. Pvt. Ltd.](https://cloco.com.np/) | Chakupat, Lalitpur | We provide cutting-edge solutions that encompass web design & development, digital marketing, graphic design, IT consulting & support, and mobile app development
+- [Cloco Nepal Inc. Pvt. Ltd.](https://cloco.com.np/) | Chakupat, Lalitpur | Shaping a Brighter, More Convenient World with Technology, People and Our Commitment to Quality
 - [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
 - [Clusus Information Solutions Pvt. Ltd.](https://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused bestowing excellence and distinction to the Banking and Financial industry
