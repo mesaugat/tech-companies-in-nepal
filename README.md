@@ -71,7 +71,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Cixware Pvt. Ltd.](https://cixware.io) | New Baneshwor, Kathmandu | Web and Mobile apps development, DevOps, Cloud services integration and automation
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
 - [Cloco Nepal Inc. Pvt. Ltd.](https://cloco.com.np/) | Chakupat, Lalitpur | We provide cutting-edge solutions that encompass web design & development, digital marketing, graphic design, IT consulting & support, and mobile app development
-- [CloudFactory](https://www.cloudfactory.com/) | Bhaisepati, Lalitpur | On-Demand Workforce for Data Work
+- [CloudFactory Nepal](https://www.cloudfactory.com.np/) | Jhamsikhel, Lalitpur | On-Demand Workforce for Data Work
 - [Cloudy Fox Technology Pvt. Ltd.](https://www.cloudyfox.io) | Anamnagar, Kathmandu | Software Development, Support, Maintenance & Security
 - [Clusus Information Solutions Pvt. Ltd.](https://www.clusus.com) | Jhamsikhel, Lalitpur | Leading provider of banking and payment solutions focused bestowing excellence and distinction to the Banking and Financial industry
 - [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Codekavya is a design and development company specialized in creating beautiful and scalable full-stack web and mobile applications
@@ -80,7 +80,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Codniv Innovations Pvt. Ltd.](https://codniv.com) | Basundhara, Kathmandu | Codniv is a one-stop-shop for software development where we provide custom software development solutions across all industries that will help you ease in your work and reach thousands of customers
 - [Comptech International](https://comptech.com.np) | Banasthali, Kathmandu | Accounting softwares and automation solutions
 - [Convergetree Technologies Pvt. Ltd.](https://www.convergetree.com/) | Kupondole, Lalitpur | Full-stack software development company specializing in Web and Mobile applications including high-load enterprise solutions, Big Data, and parallel data processing
-- [Cotiviti Nepal](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
+- [Cotiviti Nepal Pvt. Ltd.](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
 - [Crumet Tech](https://crumet.com/) | Lakeside, Pokhara | Crumet empowers startups with tailored app development, system modernization, software integration, cloud services, digital marketing, and strategic consulting
 - [Crystal Infosys](https://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
@@ -116,7 +116,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Fatdog Labs](https://fatdoglabs.com/) | Baneshwor, Kathmandu | Web Application Development, Mobile Application Development, Android & iOS Application Development
 - [Fawesome Apps](https://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
 - [FleetPanda](https://www.fleetpanda.com/) | Milan Chowk Marga, Kathmandu | Delivery management platform, offering route optimization, real-time tracking, and driver management for businesses with vehicle fleets
-- [Fusemachines Nepal](https://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
+- [Fusemachines Nepal Pvt. Ltd.](https://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
 - [F1Soft International](https://f1soft.com/) | Pulchowk, Lalitpur | FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
