@@ -152,7 +152,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Ishani Technology Pvt. Ltd.](https://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](https://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
-
+- [infoxit](https://www.infoxit.com/) | Butwal, Lumbini | Infoxit is a software and IT company based in Nepal which provides complete IT solution, web designing, Mobile app development, CMS, Ecommerce Websites.
 ## J - L
 
 - [Janaki Tech](https://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
