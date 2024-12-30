@@ -182,6 +182,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mantra Ideas Pvt. Ltd.](https://mantraideas.com/) | Manbhawan, Lalitpur | IT Company providing services related to web and mobile app development
 - [Mantra IT](https://mantrait.com.np/) | Banglamukhi, Lalitpur | Striving to provide professional IT services to companies seeking prosperity and growth in all of their IT aspects, ranging from developing an excellent website to enhancing their overall digital market achievement
 - [Mercantile Communications Pvt. Ltd.](https://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
+- [MeroPadhai] (https://meropadhai.com/) | Srijanachowk, Pokhara | Mero Padhai is the best online learning platform for Management students in Nepal, we offer a wide range of courses with comprehensive video lectures, intelligible lecture notes, and quizzes
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
