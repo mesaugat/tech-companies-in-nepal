@@ -144,6 +144,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [Inflancer Technology](https://inflancer.net/) | Gwarko, Lalitpur | Excels in MERN Stack, React Native, Flutter, React, Laravel, Digital Marketing, and SEO, delivering innovative, top-quality software solutions through a dedicated and skilled team
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
+- [infoxit](https://www.infoxit.com/) | Butwal, Lumbini | Infoxit is a software and IT company based in Nepal which provides complete IT solution for web designing, mobile app development, CMS and ecommerce websites
 - [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
 - [Inquiry Nepal](https://www.inquirynepal.com) | New Baneshwor, Kathmandu | Nepal's Premier Business Directory which aims to Connect Nepali Businesses to it's customers
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
@@ -152,7 +153,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Ishani Technology Pvt. Ltd.](https://ishanitech.com/) | Hattiban, Lalitpur | Mobile and Web Development
 - [IT Advisors Nepal](https://www.itadvisorsnepal.com/) | Dhumbarahi, Kathmandu | IT Consulting, Application Architecture and Digital Solutions
 - [Itonics](https://www.itonics.de/) | Anamnagar, Kathmandu | Big Data analytics, trend and technology scouting, monitoring and management
-- [infoxit](https://www.infoxit.com/) | Butwal, Lumbini | Infoxit is a software and IT company based in Nepal which provides complete IT solution, web designing, Mobile app development, CMS, Ecommerce Websites.
+
 ## J - L
 
 - [Janaki Tech](https://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
