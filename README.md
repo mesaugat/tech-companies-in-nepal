@@ -187,6 +187,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
+- [Naamche](https://www.naamche.com/) | Dillibazar, Kathmandu | We turn ideas into wonderful products
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Naxa Pvt. Ltd.](https://naxa.com.np/) | Maharajgunj, Kathmandu | Address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology
 - [NebulaLeap Technology Pvt. Ltd.](https://nebulaleap.com) | Chakupat, Lalitpur | We are top 1% software engineers, pioneer in developing MVP for startups and also work on E-commerce development
