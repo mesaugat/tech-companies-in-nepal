@@ -195,7 +195,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
-- [Nimble Infosys Pvt. Ltd.](https://www.nimble.com.np) | Tinkune, Kathmandu | Nimble is the product focused software company based in Nepal with Software Products of HRMS and Payroll, Fixed Assets and Inventory, Government Recruitment and Process Flow Auotomation.
+- [Nimble Infosys Pvt. Ltd.](https://www.nimble.com.np) | Tinkune, Kathmandu | Nimble is the product focused software company with Software Products of HRMS and Payroll, Fixed Assets and Inventory, Government Recruitment and Process Flow Auotomation
 - [NITV Streamz Pvt. Ltd.](https://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions
 - [Okhati Solutions](https://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
