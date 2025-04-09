@@ -46,6 +46,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Anubhabi Technologies Pvt. Ltd.](https://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
 - [Aspark Systems](https://asparksys.com/) | Basuki Marg, Kathmandu | We develop real world projects at such efficiency rate that no other development company can offer
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
+- [Astra Softech Pvt. Ltd.](https://www.astrasoftech.com/) | Baneshwor Height, Kathmandu | Your Partner in Productivity and Progress
 - [Astranix Technologies Pvt. Ltd.](https://astranix.com) | Bharatpur, Chitwan | Domain Registration, Hosting Solutions, Web Design/Development, Software Development
 - [Atlas Tek Pvt. Ltd.](https://atlastek.com.np) | Gyaneshwor, Kathmandu | An IT company with a specialization in creating new and innovative tools to cater to the need of modern days IT organizations as well as providing enterprise application development
 - [Avoloft Technologies](https://avoloft.com/) | Tinkune, Kathmandu | Delivers cutting-edge SaaS-based LMS and innovative web and mobile app development solutions
