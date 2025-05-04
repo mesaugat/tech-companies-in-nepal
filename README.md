@@ -54,6 +54,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Axios Softwork](https://axiossoftworks.com/) | Banepa, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
 - [Bajra Technologies](https://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [BatchNepal Consultancy](https://batchnepal.com/) | Bishalnagar, Dhangadhi | Leader in IT services, consulting, outsourcing, and business solutions, leverages technology for business transformation and success
+- [BerryBytes](https://www.berrybytes.com/) | Patan, Lalitpur | Technology Accelerators getting noticeable change through Kubernetes CI/CD, DevSecOps, Cloud Native Apps Development
 - [Bhoos Games](https://www.bhoos.com/) | Jwagal, Lalitpur | Recreate conversations, laughter with card games on mobile
 - [Bidhee Pvt. Ltd.](https://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
@@ -83,9 +84,11 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Cotiviti Nepal Pvt. Ltd.](https://cotiviti.com.np) | Hattisar, Kathmandu | Software research and development center
 - [Crimson Tech](https://crimsontech.io/) | Balkumari, Lalitpur | Engineering solution specialization on Computer Vison, AI/ML, IOT, Software Development, Industrial Automation
 - [Crumet Tech](https://crumet.com/) | Lakeside, Pokhara | Crumet empowers startups with tailored app development, system modernization, software integration, cloud services, digital marketing, and strategic consulting
+- [Crypto Gen Nepal](https://cryptogennepal.com) | Naxal, Kathmandu | Information Security - VAPT and IS audit being the primary, we fulfill all security solutions required by any organization
 - [Crystal Infosys](https://crystalinfosys.com/) | Jadibuti, Kathmandu | Web Development, Internet Marketing SEO
 - [Curves n' Colors](https://curvesncolors.com/) | Kamaladi, Kathmandu | Design, Copywriting, Branding
 - [Cyclone Nepal Infotech Pvt. Ltd.](https://cninfotech.com/) | Shankhamul, Kathmandu | Transform Your Business Into Digital Platform
+- [Cynical Technology](https://cynicaltechnology.com) | Maitidevi, Kathmandu | Cyber security services: VAPT, IS Audit, Penetration Testing and Risk Assessment Services
 
 ## D - F
 
@@ -98,6 +101,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Deerhold](https://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
 - [Devfinity](https://devfinity.io) | New Baneshwor, Kathmandu | A digital revolution company to solve your technology needs
 - [Digital Age Nepal](https://digitalagenepal.com/) | Tahachal, Kathmandu | Develop promising software that include KYC Management, Screening, CPFDS AML Solutions, Data Validation and Online Accounting Solutions
+- [DishHome Nepal](https://dishhome.com.np) | Sanepa, Lalitpur | DTH service provider in Nepal offering true digital HD TV channels and internet services
 - [Docsumo](https://www.docsumo.com/) | Mitrapark, Kathmandu | Intelligent Data Capture and Extraction with OCR and AI
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
 - [D-Tech Office System Pvt. Ltd.](https://d-tech.com.np/) | New Baneshwor, Kathmandu | Software, Web and Corporate Solutions Provider
@@ -124,6 +128,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [GrowByData](https://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
+- [Green Tick](https://gtn.com.np) | Gyaneshwor, Kathmandu | IT, CyberSecurity, IS Audit, HR, ISO, Business Advisory, Accounting & Finance Consulting
+- [GritFeat Solutions](https://www.gritfeat.com/) | Kirtipur, Kathmandu | Data and Intelligence driven tech solutions and services provider in the global market
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
 - [Gurzu](https://gurzu.com/) | Balkumari, Lalitpur | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
 - [Hamro Patro](https://hamropatro.com) | Sifal, Kathmandu | Hamro Patro is one of the first Nepali app to include Nepali Patro
@@ -146,7 +152,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [Inflancer Technology](https://inflancer.net/) | Gwarko, Lalitpur | Excels in MERN Stack, React Native, Flutter, React, Laravel, Digital Marketing, and SEO, delivering innovative, top-quality software solutions through a dedicated and skilled team
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
-- [infoxit](https://www.infoxit.com/) | Butwal, Lumbini | Infoxit is a software and IT company based in Nepal which provides complete IT solution for web designing, mobile app development, CMS and ecommerce websites
+- [infoxit](https://www.infoxit.com/) | Tribhuvan Path, Butwal | Complete IT solution for web designing, mobile app development, CMS and ecommerce websites
 - [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
 - [Inquiry Nepal](https://www.inquirynepal.com) | New Baneshwor, Kathmandu | Nepal's Premier Business Directory which aims to Connect Nepali Businesses to it's customers
 - [Insight Workshop](https://insightworkshop.io/) | Kamalpokhari, Kathmandu | Software Development Company
