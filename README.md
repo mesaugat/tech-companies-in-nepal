@@ -133,6 +133,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
 - [Gurzu](https://gurzu.com/) | Balkumari, Lalitpur | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
 - [Hamro Patro](https://hamropatro.com) | Sifal, Kathmandu | Hamro Patro is one of the first Nepali app to include Nepali Patro
+- [Hamro SAN](https://hamrosan.com) | Machha Pokhari, Kathmandu | Hamro SAN is SaaS based billing software for retails and restaurants
 - [Heartsun Technology](https://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](https://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiTech Solutions & Services Pvt. Ltd.](https://hitechnepal.com.np/) | Kalimati, Kathmandu | Provides service on Application Software, Customized Software Development, Web Site Design and Development, Web & Mobile Application development and Hardware Sales & Networking Solutions
@@ -141,6 +142,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [I3 Web Solution](https://www.i3websolution.com/) | Banasthali, Kathmandu | We provide the best long-term web solutions, and build the best website that suites your business needs
 - [Iceberg Technology Pvt. Ltd.](https://icebergtechnepal.com/) | Chandol, Kathmandu | An IT service company providing full and fractional IT services to small and mid-sized businesses
 - [Imagio Creations Pvt. Ltd.](https://imagiocreations.com/) | Jhamsikhel, Lalitpur | Software Development, Website Design & Development, Mobile App Development, Branding, Marketing, Staff Augmentation
+- [Impact Tech Hub Pvt. Ltd.](https://ith.com.np/) | Budol, Banepa | We provide cutting-edge IT services to businesses while also developing products that make a real impact in the communities we serve
 - [Impetus Incorporation Pvt. Ltd.](https://impetus.com.np/) | Pulchowk, Lalitpur | IT Offshore Service Provider
 - [Incessant Rain Animation Studios](https://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Incwell Venture](https://incwellventure.com/) | Jhamsikhel, Kathmandu | Software Development, Marketing, Events, Creative Content Creation
@@ -188,9 +190,11 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mantra Ideas Pvt. Ltd.](https://mantraideas.com/) | Manbhawan, Lalitpur | IT Company providing services related to web and mobile app development
 - [Mantra IT](https://mantrait.com.np/) | Banglamukhi, Lalitpur | Striving to provide professional IT services to companies seeking prosperity and growth in all of their IT aspects, ranging from developing an excellent website to enhancing their overall digital market achievement
 - [Mercantile Communications Pvt. Ltd.](https://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
+- [MeroPadhai] (https://meropadhai.com/) | Srijanachowk, Pokhara | Mero Padhai is the best online learning platform for Management students in Nepal, we offer a wide range of courses with comprehensive video lectures, intelligible lecture notes, and quizzes
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
+- [Naamche](https://www.naamche.com/) | Dillibazar, Kathmandu | We turn ideas into wonderful products
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Naxa Pvt. Ltd.](https://naxa.com.np/) | Maharajgunj, Kathmandu | Address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology
 - [NebulaLeap Technology Pvt. Ltd.](https://nebulaleap.com) | Chakupat, Lalitpur | We are top 1% software engineers, pioneer in developing MVP for startups and also work on E-commerce development
@@ -199,6 +203,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Nepasoft Solutions LLC](https://nepasoft.com/) | Gairidhara, Kathmandu | Team of experienced professionals with passion for delivering high quality software solutions, products and services
 - [Nepbix Technology Pvt. Ltd.](https://www.nepbix.com/) | Tinkune, Kathmandu | NepBix Technology is a renowned mobile and web app development company & IT Software Solutions provider based in Australia & Nepal
 - [NepXpress Cargo & Courier](https://www.nepxpress.com) | Buddhanagar, Kathmandu | Instant Home Delivery Service in Nepal
+- [Nimble Infosys Pvt. Ltd.](https://www.nimble.com.np) | Tinkune, Kathmandu | Nimble is the product focused software company with Software Products of HRMS and Payroll, Fixed Assets and Inventory, Government Recruitment and Process Flow Auotomation
 - [NITV Streamz Pvt. Ltd.](https://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions
 - [Okhati Solutions](https://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
@@ -299,6 +304,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [YoungInnovations](https://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 - [Young Minds Creation Pvt. Ltd.](https://www.youngminds.com.np/) | Shantinagar, Kathmandu | We are Software Development & Website Design Company
 - [Zegal Nepal Pvt. Ltd.](https://zegal.com/) | Jawalakhel, Lalitpur | Zegal is the premier end-to-end platform for legal contract management and automation
+- [Zookti Group Pvt. Ltd.](https://www.zookti.com/) | Anamnagar, Kathmandu | Zookti is an IT company specializing in innovative digital solutions for businesses and users
 - [ZurelSoft](https://www.zurelsoft.com/) | Jawalakhel, Lalitpur | Data-driven lean construction software solutions
 - [Zyoba Labs](https://www.zyobalabs.com/) | Patan Dhoka, Lalitpur | Translating business requirement to meaningful technology solutions is what we strive for
 
