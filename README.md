@@ -128,7 +128,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [GrowByData](https://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
-- [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
 - [Green Tick](https://gtn.com.np) | Gyaneshwor, Kathmandu | IT, CyberSecurity, IS Audit, HR, ISO, Business Advisory, Accounting & Finance Consulting
 - [GritFeat Solutions](https://www.gritfeat.com/) | Kirtipur, Kathmandu | Data and Intelligence driven tech solutions and services provider in the global market
 - [Gurkhatech](https://gurkhatech.com/) | New Baneshwor, Kathmandu | App & Web Development, Facebook Marketing Nepal
