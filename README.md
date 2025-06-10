@@ -235,7 +235,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## S - U
 
 - [Sajilo Saathi](https://sajilosaathi.com/) | Sankhamul, Kathmandu | Ride sharing app
-- [Saral Apps Pvt. Ltd.](https://www.saralapps.com/) | New-Baneshwor, Kathmandu | Provide best e-Learning services for School, Colleges, and Institutions.
+- [Saral Apps Pvt. Ltd.](https://www.saralapps.com/) | New-Baneshwor, Kathmandu | Provide best e-Learning services for School, Colleges, and Institutions
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
 - [Sastra Creations Pvt. Ltd.](https://sastracreations.com/) | Baluwatar, Kathmandu | Web Hosting Solutions, Web Development, Software Solutions, Logo Design & Branding
 - [SecurityPal](https://www.securitypalhq.com/) | Baluwatar, Kathmandu | SecurityPal, a fast-growing early-stage startup based out of San Francisco, is on a mission to power growth through security
