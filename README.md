@@ -36,6 +36,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## A - C
 
 - [Aayulogic Pvt. Ltd.](https://aayulogic.com/) | Min Bhawan, Kathmandu | Software solutions including, but not limited to, web development, web desigining, web/domain hosting and CMS
+- [Adex International](https://adex.ltd/) | Ekantakuna, Lalitpur | Cloud consulting and IT services company that provides end-to-end solutions including AWS cloud services, DevOps, and IT outsourcing to help businesses optimize operations and drive digital transformation.
 - [Admana Technology Pvt. Ltd.](https://admana.net/) | Tripureshwor, Kathmandu | We are a Digital Ad Network Platform through which you can put your ads in 70+ websites of Nepal and pay according to your budget
 - [Aegis Software Pvt. Ltd.](https://aegishms.com/) | Dhantil Lane 1, Lalitpur | Specializes in software development, property management solutions, business applications, hotel management applications and mobile app development
 - [Agile Solutions](https://agile.com.np) | Dhumbarahi, Kathmandu | We provide a full range of ERP, CRM, and BI services from implementation to support and development
