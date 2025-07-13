@@ -305,6 +305,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yellow Nepal Pvt. Ltd. (Fawesome Apps)](https://fawesomeapps.com/) | Putalisadak, Kathmandu | We provide companies with senior tech talents and product development expertise to build world-class software
 - [Yomari Information Services Incorporated](https://yomari.com/) | Kumaripati, Lalitpur | Analytics, business intelligence (BI), and data warehouse consultants
+- [Young Hat](https://www.younghat.com) | New Baneshwor, Kathmandu | We develop customized web applications and mobile apps as per client requirements
 - [YoungInnovations](https://younginnovations.com.np/) | Kumaripati, Lalitpur | We create innovative and powerful solutions to global development problems
 - [Young Minds Creation Pvt. Ltd.](https://www.youngminds.com.np/) | Shantinagar, Kathmandu | We are Software Development & Website Design Company
 - [Zegal Nepal Pvt. Ltd.](https://zegal.com/) | Jawalakhel, Lalitpur | Zegal is the premier end-to-end platform for legal contract management and automation
