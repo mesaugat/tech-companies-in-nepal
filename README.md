@@ -220,7 +220,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Pathway Technologies and Services](https://pathway.com.np/) | Thapathali, Kathmandu | Solutions and services in the field of software development, business/knowledge process outsourcing as well as consultancy and advisory services on information and communication technologies
 - [Peace Nepal DOT Com P. Ltd.](https://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
 - [Perfect Active Solutions Pvt. Ltd.](https://pas.com.np/) | Old Baneshwor, Kathmandu | Website and Software Development for organizations operating in Nepal
-- [Periwin Solutions](https://periwin.com/) | Periwin Solutions is a Nepal-UK based company offering software development, mobile and web apps, outsourcing, digital marketing, and accounting consultancy
+- [Periwin Solutions](https://periwin.com/) | Dillibazar, Kathmandu | Periwin Solutions is a Nepal-UK based company offering software development, mobile and web apps, outsourcing, digital marketing, and accounting consultancy
 - [Pioneer Solutions](https://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Professional Computer System Pvt. Ltd.](https://www.pcs.com.np/) | Chakupat, Lalitpur | We develop national or enterprise-wide application for Government, Banking & Financial Sectors and Manufacturing Industries Verticals
 - [Progressive Labs Pvt. Ltd.](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
