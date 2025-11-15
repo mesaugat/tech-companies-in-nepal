@@ -154,6 +154,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Infinite IT Solutions Nepal](https://infiniteitsolutionsnepal.com/) | Oil Nigam Kharji, Biratnagar | Provide end-to-end software and mobile application development services
 - [Infinity Digital Agency](https://infinitydigitalagency.com.np/) | Maitidevi, Kathmandu | Social Media Management, Software & App Solutions, Graphics Design & Visual Arts, Web Development & Management, Photography & Videography, Digital Branding & Marketing
 - [Inflancer Technology](https://inflancer.net/) | Gwarko, Lalitpur | Excels in MERN Stack, React Native, Flutter, React, Laravel, Digital Marketing, and SEO, delivering innovative, top-quality software solutions through a dedicated and skilled team
+- [IndieHyve](https://indiehyve.com) | Pokhara, Nepal | Software company building web/mobile apps, AI solutions, and digital products
 - [InfoDevelopers](https://www.infodev.com.np) | Sanepa, Lalitpur | Providing innovative, quality, cost effective IT Services and Software solutions for business process automation and re-engineering
 - [infoxit](https://www.infoxit.com/) | Tribhuvan Path, Butwal | Complete IT solution for web designing, mobile app development, CMS and ecommerce websites
 - [Innovate Tech](https://innovatetech.io/) | Baluwatar, Kathmandu | We work to deliver cutting edge, scalable, secure and easy to use products
