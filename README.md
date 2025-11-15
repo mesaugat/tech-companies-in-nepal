@@ -287,8 +287,8 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [View Nepal](https://www.viewnepal.com/) | Kamalpokhari, Kathmandu | Web and Logo Design, Web Hosting, Domain Registration
 - [Visualise VR](https://visualisevr.com/) | Pulchowk, Lalitpur | Help business benefit from mixed reality technologies
+- [Vivasoft Nepal](https://vivasoft.com.np/) | Samakhusi, Kathamandu | Custom Software Development, Mobile App Development, AI/ML Development, Blockchain Development
 - [Viveka Health](https://www.vivekahealth.com/) | Sanepa, Lalitpur | Software company working on health data projects
-- [Vivasoft Nepal](https://vivasoft.com.np/) | Samkhusi, Kathamandu | Custom Software Development, Mobile App Development, AI/ML Development, Blockchain Development
 - [Vurilo Nepal Pvt. Ltd.](https://www.vurilo.com/) | Maharajgunj, Kathmandu | Best e-learning platform in Nepal, make quality education accessible to as many people as possible
 - [Walkers Hive Pvt. Ltd.](https://walkershive.com/) | Putalisadak, Kathmandu | Digital Marketing, Optimized Website, Management System, Mobile Applications, Software Integration, Advanced Level Programming Course, IT Consultation
 - [Waterflow Technology](https://waterflow.technology/) | Durbar Marg, Kathmandu | Prioritize innovative solutions for clients transitioning from legacy software to modern practices
