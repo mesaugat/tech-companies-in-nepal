@@ -118,6 +118,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [E-Multitech Solution Pvt. Ltd.](https://www.emultitechsolution.com) | Kupondol, Lalitpur | We are a company specialising in auction software, web design, web development, mobile apps, e-commerce, and other services
 - [E-Prabidhi Pvt. Ltd.](https://www.eprabidhi.com/) | Putalisadak, Kathmandu | Web Developement, Domain Hosting, Software Development and Graphics Designing
 - [ESignature Pvt. Ltd.](https://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
+- [Ewan Byte Pvt.Ltd.](https://ewanbyte.com/) | Tilottama, Rupandehi | EwanByte is a product-based organization focused on building high-quality mobile applications and web solutions. EwanByte specializes in developing scalable, user-centric digital products that address real-world problems through modern technology and thoughtful design.
 - [Exotrac](https://exotrac.com/) | Old Baneshwor, Kathmandu | Leading provider of real time logistics management software for automotive, manufacturing, retail, and supply chain logistics industries
 - [Expresiv Studios](https://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fatdog Labs](https://fatdoglabs.com/) | Baneshwor, Kathmandu | Web Application Development, Mobile Application Development, Android & iOS Application Development
