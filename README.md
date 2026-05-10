@@ -226,6 +226,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Progressive Labs Pvt. Ltd.](https://progressivelabs.tech/) | Baneshwor, Kathmandu | Web and mobile app development
 - [Proshore](https://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
 - [QPay](https://www.qpay.com.np/) | Baluwatar, Kathmandu | Mobile based payment solution
+- [Rahaar](https://www.rahaar.com/) | Thapagau, New Baneshwor, Kathmandu | A structural digital studio crafting scalable systems for modern brands, blending design, engineering, and growth to build bold, high-performance digital identities.
 - [Rara Labs](https://www.raralabs.com/) | Manbhawan, Lalitpur | We serve global customers by developing deep technology software products with specialization on Automation, Digitization, Distribution, and Data Governance
 - [Renegade Insurance](https://renegadeinsurance.com/) | Ekantakuna, Lalitpur | A technology-driven insurance brokerage in the US market that combines cutting-edge tech and modern consumerism with an old-fashioned human touch
 - [Ribera Solutions](https://www.riberasolutions.com/) | Pulchowk, Lalitpur | Our Expertise – Internet of Things (IoT)
