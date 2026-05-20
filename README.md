@@ -46,6 +46,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Amnil Technologies Pvt. Ltd.](https://amniltech.com/) | Manbhawan, Lalitpur | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application
 - [Amsoft Technologies](https://amsoft.com.np) | Gwarko, Lalitpur | An IT Consulting and Software Company serving in IT related areas since its incorporation
 - [Anubhabi Technologies Pvt. Ltd.](https://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
+- [Artivtech](https://artivtech.com) | Urlabari, Morang | Architect and scale next-generation SaaS platforms, uniting agile engineering with AI-driven intelligence to deliver enterprise solutions built for speed, resilience, and growth.
 - [Aspark Systems](https://asparksys.com/) | Basuki Marg, Kathmandu | We develop real world projects at such efficiency rate that no other development company can offer
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
 - [Astra Softech Pvt. Ltd.](https://www.astrasoftech.com/) | Baneshwor Height, Kathmandu | Create productivity tools that empower businesses and enterprises to accomplish more in less time
