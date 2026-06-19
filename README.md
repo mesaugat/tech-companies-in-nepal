@@ -256,7 +256,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [SUBISU CABLENET Pvt. Ltd.](https://subisu.net.np/) | Jhamsikhel, Lalitpur | Internet, Network and Television Service Provider
 - [SUNAI Technology Pvt. Ltd.](https://sunai.xyz/) | Gairidhara, Kathmandu | Custom software development outsourcing company for platform-based solutions specialized in cloud/devops, mobile/web app development & product design
 - [Supreme IT Solutions Pvt. Ltd.](https://supremeit.net/) | New Baneshwor, Kathmandu | We transform Business through Technology
-- [Sursa Tech Pvt. Ltd.](https://www.sursatech.com/) | Maharajgunj, Kathmandu | IT service provider with a major focus on software development, quality analysis and mobile development projects
+- [Sursa Tech Pvt. Ltd.](https://www.sursatech.com/) | Maharajgunj, Kathmandu | AI-native product engineering company building AI agents, RAG systems, SaaS products, automation workflows, and QA systems
 - [Susankya Tech Pvt. Ltd.](https://susankya.com/) | Kupondole, Lalitpur | Software company with highly experienced and like-minded experts focusing on real-world problems, implementing the best solutions to simplify day-to-day life
 - [Sustainable Solutions](https://sussol.net/) | Pulchowk, Lalitpur | mSupply and MoneyWorks
 - [Swift Technology](https://www.swifttech.com.np/) | Panipokhari, Kathmandu | Leading FinTech company established in 2007, expertise in digital financial services, Mobile Banking, Internet Banking, Remittance System, Mobile wallet and customized software development
