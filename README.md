@@ -99,6 +99,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Dallo Tech](https://dallotech.com/) | Khumaltar, Lalitpur | We build software solutions tailored for your problems
 - [Danfe Solution Pvt. Ltd.](https://danfesolution.com/) | Gyaneshwor, Kathmandu | IT Company focusing on Web Development, Mobile Application and Desktop Application
 - [Danphe Software Labs Pvt. Ltd.](https://www.danpheit.com/) | Anamnagar, Kathmandu | We specialize in Software and Web Development
+- [Darse Technologies Pvt. Ltd.](https://www.darsetech.com/) | Manbhawan, Lalitpur | Darse Technologies is a product engineering partner for SaaS companies and funded startups. Founder-led team, senior engineers, and systems running for 1M+ users.
 - [Dasmalab](https://dasmalab.com/) | Sanepa, Lalitpur | Software, websites and apps development along with data computing and visualization service
 - [Deerwalk](https://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
 - [Deerhold](https://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
