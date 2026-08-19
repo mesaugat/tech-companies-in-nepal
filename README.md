@@ -137,6 +137,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Gurzu](https://gurzu.com/) | Balkumari, Lalitpur | Gurzu helps world-class customers get to their markets quickly with very high quality products built with modern software technologies
 - [Hamro Patro](https://hamropatro.com) | Sifal, Kathmandu | Hamro Patro is one of the first Nepali app to include Nepali Patro
 - [Hamro SAN](https://hamrosan.com) | Machha Pokhari, Kathmandu | Hamro SAN is SaaS based billing software for retails and restaurants
+- [Hazesoft](https://hazesoft.co) | Shankhamul, Kathmandu | IaaS, PaaS, DevOps & Cloud, Web and Mobile application development
 - [Heartsun Technology](https://heartsunntsoft.com/) | Bharatpur, Chitwan | Software Company with .NET platform
 - [HelloWorldCorp](https://helloworldcorp.biz/) | Gairidhara, Kathmandu | Web Development Company
 - [HiTech Solutions & Services Pvt. Ltd.](https://hitechnepal.com.np/) | Kalimati, Kathmandu | Provides service on Application Software, Customized Software Development, Web Site Design and Development, Web & Mobile Application development and Hardware Sales & Networking Solutions
