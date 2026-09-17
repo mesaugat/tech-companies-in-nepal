@@ -176,6 +176,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Kazi Studios](https://www.kazistudios.com/) | Ekantakuna, Kathmandu | Solving complex problems through design and technology
 - [Lanceme Up](https://lancemeup.com/) | Dhobighat, Lalitpur | Your all-in-one virtual workspace for managing clients and teams
 - [Laser InfoTech Pvt. Ltd.](https://www.laser-infotech.com/) | Bhaisepati, Lalitpur | Your trusted partner for Web Design & Development, Mobile App Development and Viral Marketing
+- [LavamTech](https://www.lavamtech.com.np/) | Chabahil, Kathmandu | We build, maintain, and customize advanced software and systems for businesses, institutions, and individuals
 - [Leapfrog Technology](https://lftechnology.com/) | Dillibazar, Kathmandu | We build world-class software for you
 - [Libresoft IT Solutions](https://libresoft.com.np/) | Dillibazar, Kathmandu | We provide Enterprise level Open Source Solutions, Trainings & Consultation in Linux System Administration & Networkings
 - [LinkBinary](https://www.linkbinary.com/) | Birtamode, Jhapa | Provides digital services in simple yet secured, integrated and most comprehensive way while taking care of fairly adrifted digital quality
