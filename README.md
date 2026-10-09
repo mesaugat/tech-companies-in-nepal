@@ -272,6 +272,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [The Next Coders](https://thenextcoders.com/) | Birendrangar, Surkhet | Nepal's Top Web & Mobile App Developers
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](https://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
+- [Treeleaf Technologies Pvt. Ltd.](https://treeleaf.ai/) | Kupondole, Lalitpur | Research and development in artificial intelligence, IoT, robotics, and enterprise software solutions
 - [Truemark](https://truemark.dev) | Ranibari Chowk, Kathmandu | We are remote first, quality focused outsourcing company
 - [UBA Solutions](https://www.uba-solutions.com/) | Thadodhunga, Lalitpur | Software Research and Development
 - [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu | We innovate/create/implement brands to realise their true potential
