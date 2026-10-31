@@ -236,6 +236,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## S - U
 
+- [Saarathi Academy](https://saarathiacademy.com.np/) | Old Baneshwor, Kathmandu | Software training institute that also builds websites, web and mobile apps and runs SEO and digital marketing for businesses
 - [Sajilo Saathi](https://sajilosaathi.com/) | Sankhamul, Kathmandu | Ride sharing app
 - [Saral Apps Pvt. Ltd.](https://www.saralapps.com/) | New Baneshwor, Kathmandu | Provide best e-Learning services for School, Colleges, and Institutions
 - [Sastodeal - Be Genuine](https://www.sastodeal.com/) | Tripureshwor, Kathmandu | Provide e-commerce services for businesses to connect to it's customers online
