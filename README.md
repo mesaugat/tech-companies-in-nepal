@@ -45,6 +45,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Ambarkaar Software Pvt. Ltd.](https://compliancequest.com/) | Bakhundol, Lalitpur | Ambarkaar is a subsidiary company of ComplianceQuest, we develop Enterprise Quality Management System in Salesforce
 - [Amnil Technologies Pvt. Ltd.](https://amniltech.com/) | Manbhawan, Lalitpur | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application
 - [Amsoft Technologies](https://amsoft.com.np) | Gwarko, Lalitpur | An IT Consulting and Software Company serving in IT related areas since its incorporation
+- [Antbytelabs](https://antbytelabs.com/) | Surya Binayak, Bhaktapur | Web, mobile app and custom software development, with the source code handed over to the client
 - [Anubhabi Technologies Pvt. Ltd.](https://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
 - [Aspark Systems](https://asparksys.com/) | Basuki Marg, Kathmandu | We develop real world projects at such efficiency rate that no other development company can offer
 - [Asterdio Inc.](https://asterdio.com/) | Sankhamul, Kathmandu | Web Design/Development, Multimedia Development, Social Media Management and Hosting Solutions
