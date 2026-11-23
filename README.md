@@ -104,6 +104,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Deerhold](https://www.deerhold.org/) | Sifal, Kathmandu | Provides software development and IT services to clients around the globe
 - [Devfinity](https://devfinity.io) | New Baneshwor, Kathmandu | A digital revolution company to solve your technology needs
 - [Digital Age Nepal](https://digitalagenepal.com/) | Tahachal, Kathmandu | Develop promising software that include KYC Management, Screening, CPFDS AML Solutions, Data Validation and Online Accounting Solutions
+- [Dipa Academy](https://dipaacademy.com) | Online, Kathmandu | Online Lok Sewa exam preparation with live classes, an app and free practice questions
 - [DishHome Nepal](https://dishhome.com.np) | Sanepa, Lalitpur | DTH service provider in Nepal offering true digital HD TV channels and internet services
 - [Docsumo](https://www.docsumo.com/) | Mitrapark, Kathmandu | Intelligent Data Capture and Extraction with OCR and AI
 - [Dolphin Dive Technology Pvt. Ltd.](https://dolphindivetech.com/) | Jhamsikhel, Lalitpur | CRM, Mobile Based Applications, Enterprise Solutions and Big Data Analysis
